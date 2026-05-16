@@ -1,5 +1,35 @@
 # ReMa-DH-TEAM3
 
+## Project Overview
+
+
+## Data Acquisition
+
+
+## Methodology
+
+Task Divion:
+- Giulia: Python
+- Jelmer: QGIS
+- Eveline: Github
+
+## Workflow Steps
+
+
+## Challenges and Solutions
+
+
+## Ethical Considerations
+
+
+## Results
+
+
+## Documentation and Sustainability
+
+
+## Reflection
+
 ### Meeting 1: 27th of April
 
 
