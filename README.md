@@ -41,3 +41,9 @@ Task Divion:
 
 ### Meeting 4: 12th of May
 Decisions made - We are going to look into the following time-periods: 1998-2003 & 2006-2011
+
+## Authors
+G. Massaggia, J. Groenenboom and E.J. Miedema.
+
+## Acknowledgements
+This data set would not have been possible without the work of [International Maritime Bureau (IMB)](https://icc-ccs.org/), [Professor Brandon C. Prins](https://brandonprins.weebly.com/index.html) and [Benden et al.](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.39).
