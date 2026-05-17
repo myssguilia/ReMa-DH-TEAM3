@@ -15,7 +15,10 @@ License: Creative Commons Attribution-ShareAlike 4.0 International License
 Repository name: Zenodo
 Publication date: 2021-03-04
 
-### (2) Codebook (adopted from Benden et al. 2021)
+### (2) Sources (primarily adopted from Benden et al. 2021)
+The piracy attack data from 1993 to 2014 was sourced from a dataset published by Daxecker & Prins ([2015](https://doi.org/10.1080/03050629.2015.1016159)), which was again sourced from the IMB. The data from 2014 to 2020 was web scraped from the IMB website ([IMB Piracy Reporting Centre, 2020](https://www.icc-ccs.org/piracy-reporting-centre)) using Julia .........
+
+### (3) Codebook (adopted from Benden et al. 2021)
 **Pirate Attacks**
 - **Date [Key]** - Date of Attack. Ysed as a key with the Country Matrix data frame.
 - **Time** - Time the attack took place, either in UTC or Local Time.
