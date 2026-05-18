@@ -1,6 +1,12 @@
 # ReMa-DH-TEAM3
 
 ## Project Overview
+Previous research has indicated that from a global perspective, succesful pirate attacks are more likely to happen in regions that are relatively poor, have a fragile economy, and have decreasing military expenditure (Okeahalam & Otwombe, 2016). In a review of existing prediction models, Daxecker and Prins (2012) in addition found that geographic factors such as coastline length, population size, regional trade and peace years influenced the occurrence of pirate attacks, though predictore varied in significance between hijacking and other piracy incidents. This project investigates maritime piracy attack patterns during two significant surge periods, 1998–2003 and 2006–2011, as identified by Rivas Pardo (2021), using Benden et al.’s Global Database of Maritime Pirate attacks (2021). 
+This project aims to build in particular on work done by Daxecker & Prins (2012), who found that GDP showed a statistically significant correlation with piracy incidents, and Rivas Pardo (2021), who identified the two main ‘surge periods’ in the amounts of pirate attacks per year. It does this by asking whether there is a significant difference between the GDP levels of the countries where three different types of pirate attacks identified in the database of the International Maritime Bureau (IMB), namely the ‘attempted’, ‘boarded’, and ‘hijacked’ categories, tend to occur during both of the surge periods identified by Rivas Pardo. This project takes a descriptive and exploratory approach, where GDP is not treated as a causal predictor of attack types: rather, it aims to observe whether the three attack types cluster around systematically higher or lower national GDPs compared to one another and whether this association shifts between the two surge periods. To support this analysis, QGIS is employed to spatially visualize the distribution of attack types alongside GDP levels across the affected countries, allowing geographic patterns to be examined alongside the economic ones.
+
+<img width="1389" height="490" alt="overall_attacks" src="https://github.com/user-attachments/assets/089a84f8-128e-4edd-8a30-fb874c89ad47" />
+
+<img width="1489" height="490" alt="overall_attackGDP" src="https://github.com/user-attachments/assets/774100de-b912-47f9-87db-4786edc9ab73" />
 
 
 ## Data Acquisition
