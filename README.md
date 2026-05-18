@@ -261,4 +261,32 @@ The outputs of this project, including the preprocessed datasets for both surge 
 The authors have no competing interests to declare.
 
 ## References
-Benden, P., Feng, A., Howell, C., & Dalla Riva G. V. (2021). Crime at Sea: A Global Database of Maritime Pirate Attacks (1993–2020). Journal of Open Humanities Data, 7: 19, pp. 1–6. DOI: https://doi.org/10.5334/johd.39
+Benden, P., Feng, A., Howell, C., & Dalla Riva G. V. (2021). Crime at Sea: A Global Database of Maritime Pirate Attacks (1993–2020). Journal of Open Humanities Data, 7: 19, pp. 1–6. DOI: https://doi.org/10.5334/johd.39  
+
+Coggins, B. L. (2012). Global patterns of maritime piracy, 2000–09: Introducing a new dataset. Journal of Peace Research, 49(4), 605–617. https://doi.org/10.1177/0022343312442520  
+
+Daxecker, U. E., & Prins, B. C. (2015). The New Barbary Wars: Forecasting Maritime Piracy. Foreign Policy Analysis, 11(1), 23–44  
+
+Flanders Marine Institute (2020). Union of the ESRI Country shapefile and the Exclusive Economic Zones (version 3). Available online at https://www.marineregions.org/. https://doi.org/10.14284/403.  
+
+GeeksforGeeks. (2025). How to perform Dunn’s test in python. Available at: https://www.geeksforgeeks.org/machine-learning/how-to-perform-dunns-test-in-python/   
+
+ICC-IMB Piracy and Armed Robbery Against Ships Report. (2023). Available at: https://www.icc-ccs.org/reports/2023_Annual_IMB_Piracy_and_Armed_Robbery_Report_live.pdf   
+
+International Monetary Fund. (2026). Available at: https://data.imf.org/en   
+
+NOAA Ocean Exploration. (2023). What is the “EEZ”?. Available at: https://oceanexplorer.noaa.gov/ocean-fact/useez/   
+
+Okeahalam, C., Otwombe, K. Socioeconomic development and the risk of maritime piracy. J Transp Secur 9, 125–160 (2016).https://doi.org/10.1007/s12198-016-0171-4   
+
+Rivas Pardo, P. (2021). Maritime Piracy and its Characterization as a Threat: Presence, Type, Arms, Violence, and Ships under Attack between 1991 and 2019. In Revista de Relaciones Internacionales, Estrategia y Seguridad. Vol. 16(1). DOI:10.18359/ries.5282  
+
+UVA Library. (2021). Getting started with the kruskal-wallis test. Available at: https://library.virginia.edu/data/articles/getting-started-with-the-kruskal-wallis-test   
+
+World Bank Open Data. (2026). GDP per capita (current US$). Available at: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD   
+
+World Port Index (Pub 150) shapefile (National Geospatial-Intelligence Agency, 2017) 
+https://hub.arcgis.com/datasets/88f660fa73db46e0889147e4e9c44f01_0/explore?location=0.533333%2C1.000000%2C1   
+
+
+
