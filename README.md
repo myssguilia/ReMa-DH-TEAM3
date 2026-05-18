@@ -66,7 +66,7 @@ The piracy attack data from 1993 to 2014 was sourced from a dataset published by
 Pirate attacks
 1. Load all the pirate attacks per year .CSV files into QGIS as point coordinates, so that they set the CRS for the rest of the files accurately (this should be EPSG:4326 - WGS 84)
 2. create a categorized symbology based on attack type, with symbology set as follows:
-   ![alt text](image-url)
+   ![symbology](img/image2.png)
 with ‘hijacked’ red, ‘boarded’/’boarding’ as light orange, and ‘attempted’ as green.
 3. Ucheck any categories except ‘boarded’, ‘boarding’, ‘attempted’, and ‘hijacked’
 4. Repeat this process for all years
@@ -76,7 +76,7 @@ GDP/EEZs
 2. Load in the GDP .CSV files for 2006-2011 with no geometry
 3. In the Processing Toolbox, find ‘join attributes by field value’ (Vector General)
 4. As input layer, set the EEZ shapefile. As input layer 2, set the GDP table. Set table fields to the columns that refer to the ISO codes for the countries in each layer (in the EEZ shapefile, we used ISO_ter1 as ISO_ter2 and ISO_ter3 were only filled in in case multiple countries claimed or governed a particular territory)
- ![alt text](image-url)
+ ![Input Layers](image1.png)
 5. Make the resulting layer permanent in the layer overview, save it as GDP [year]
 6. Open the attribute table of the resulting shapefile, sort by GDP so that all the NULL values come to the top of the table, then toggle editing, select all the 7. Entries with NULL values, and save the table. This creates a shapefile that includes only EEZs for countries that we have GDP data for
 8. Create a graduated fill for GDP with five classes, set to Equal Count (Quantile)
