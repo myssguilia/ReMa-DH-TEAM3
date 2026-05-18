@@ -1,0 +1,405 @@
+date,time,longitude,latitude,attack_type,location_description,nearest_country,eez_country,shore_distance,shore_longitude,shore_latitude,attack_description,vessel_name,vessel_type,vessel_status,data_source
+01-01-2009,NA,47.05,13.0833,Attempted,Gulf of Aden,YEM,YEM,49.88960814,46.82422936,13.47630443,NA,Abul Kalam Azad,NA,Steaming,mappingpiracy
+01-01-2009,NA,50.5667,14.35,Attempted,Gulf of Aden,YEM,YEM,68.00536091,50.34302819,14.92475007,NA,S. Venus,NA,Steaming,mappingpiracy
+01-01-2009,NA,49.4833,13.8833,Attempted,Gulf of Aden,YEM,YEM,71.19186256,49.00367272,14.32477448,NA,Corina,NA,Steaming,mappingpiracy
+01-01-2009,NA,51.7833,14.7833,Attempted,Gulf of Aden,YEM,YEM,62.33488484,51.65528405,15.33274974,NA,S. Venus,NA,Steaming,mappingpiracy
+01-01-2009,NA,51.1167,14.6033,Attempted,Gulf of Aden,YEM,YEM,60.66163646,51.06983483,15.14964427,NA,Super Star III,NA,Steaming,mappingpiracy
+01-01-2009,NA,48.9667,13.9167,Hijacked,Gulf of Aden,YEM,YEM,29.83004665,48.73829186,14.06818268,NA,Blue Star,NA,Steaming,mappingpiracy
+01-01-2009,NA,51.2433,14.3917,Attempted,Gulf of Aden,YEM,YEM,85.91820214,51.06983483,15.14964427,NA,Cristina A,NA,Steaming,mappingpiracy
+02-01-2009,NA,50.8667,14.315,Attempted,Gulf of Aden,YEM,YEM,85.18283588,50.66146895,15.05849844,NA,Samanyolu,NA,Steaming,mappingpiracy
+02-01-2009,NA,50.65,13.7,Attempted,Gulf of Aden,YEM,YEM,136.3060127,50.17953535,14.84332917,NA,Kriti Episkopi,NA,Steaming,mappingpiracy
+02-01-2009,NA,47.5433,13.2167,Attempted,Gulf of Aden,YEM,YEM,50.95768471,47.39820397,13.65485261,NA,Chipolbrok Sun,NA,Steaming,mappingpiracy
+02-01-2009,NA,47.5417,13.1833,Attempted,Gulf of Aden,YEM,YEM,54.43525353,47.39820397,13.65485261,NA,King Daniel,NA,Steaming,mappingpiracy
+03-01-2009,NA,-77.1567,3.8267,Boarding,"Buenaventura Anchorage, Colombia",COL,COL,1.603144275,-77.15038001,3.813666083,NA,Atlantic Dream,NA,Anchored,mappingpiracy
+03-01-2009,NA,45.1667,12.9167,Hijacked,Gulf of Aden,YEM,YEM,7.249207386,45.11817468,12.96173737,NA,Sea Princess II,NA,Steaming,mappingpiracy
+04-01-2009,NA,48.25,13.4,Attempted,Gulf of Aden,YEM,YEM,63.31583186,48.18873132,13.96914297,NA,Donat,NA,Steaming,mappingpiracy
+04-01-2009,NA,48.7083,13.5667,Attempted,Gulf of Aden,YEM,YEM,52.67320552,48.68930098,14.04242585,NA,Vulturnus,NA,Steaming,mappingpiracy
+04-01-2009,NA,50.5333,14.3,Attempted,Gulf of Aden,YEM,YEM,71.18481767,50.17953535,14.84332917,NA,Darin Naree,NA,Steaming,mappingpiracy
+05-01-2009,NA,-77.2183,-12.025,Boarding,"Callao Anchorage Area No.12, Peru",PER,PER,4.684177018,-77.24410791,-12.05887765,NA,Spar Topaz,NA,Anchored,mappingpiracy
+08-01-2009,NA,41.495,-1.743,Boarding,"Off Kiunga, Kenya",KEN,KEN,5.387638708,41.45834395,-1.774834894,NA,Victoria Four,NA,Anchored,mappingpiracy
+09-01-2009,NA,-77.2025,-12.025,Boarding,"Callao Anchorage No.1, Peru",PER,PER,5.018445332,-77.16649329,-12.05331797,NA,Maruba Africa,NA,Anchored,mappingpiracy
+10-01-2009,NA,-38.5167,-3.7333,Boarding,"Maucuripe Termina, Fortaleza Port, Brazil",BRA,BRA,1.990690057,-38.52619381,-3.718031508,NA,Challenge Pacific,NA,Berthed,mappingpiracy
+11-01-2009,NA,-64.5932,10.1167,Boarding,"Guanta Port, Venezuela",VEN,VEN,11.29406157,-64.66763262,10.18732331,NA,Ines,NA,Berthed,mappingpiracy
+12-01-2009,NA,-72.3432,18.55,Attempted,"S1 Anchorage, Port Au Prince, Haiti",HTI,HTI,0.4358399826,-72.34569251,18.54686107,NA,Crowley Shipper,NA,Anchored,mappingpiracy
+13-01-2009,NA,45.9617,12.4083,Attempted,Gulf of Aden,YEM,YEM,95.08915052,45.40300541,13.07013581,NA,Nedlloyd Barentsz,NA,Steaming,mappingpiracy
+14-01-2009,NA,47.3843,13.0363,Attempted,Gulf of Aden,YEM,YEM,65.17819528,47.16684004,13.58559805,NA,Daylam,NA,Steaming,mappingpiracy
+15-01-2009,NA,5.0833,5.35,Boarding,"Lagos Outer Anchorage, Nigeria",NGA,NGA,21.02629686,5.19800866,5.501450914,NA,Samho Cordelia,NA,Anchored,mappingpiracy
+15-01-2009,NA,1.2633,6.09,Attempted,"Lome Anchorage, Togo",TGO,TGO,4.91111094,1.271006707,6.133734442,NA,Lake Aru,NA,Steaming,mappingpiracy
+15-01-2009,NA,1.2633,6.09,Attempted,"Lome Anchorage, Togo",TGO,TGO,4.91111094,1.271006707,6.133734442,NA,Lake Aru,NA,Steaming,mappingpiracy
+15-01-2009,NA,107.067,10.2495,Boarding,"Vungtau Outer Anchorage, Vietnam",VNM,VNM,8.44468837,107.0871688,10.32318757,NA,Kakusho I,NA,Anchored,mappingpiracy
+17-01-2009,NA,7.2333,4.1667,Boarding,"Bonny offshore Terminal, SPM-1, Nigeria",NGA,NGA,24.4913851,7.181651238,4.382025458,NA,Front Chief,NA,Berthed,mappingpiracy
+19-01-2009,NA,-0.0167,5.6167,Boarding,"Tema Roads, Ghana",GHA,GHA,3.554001117,-0.045033332,5.60162995,NA,MOL Splendor,NA,Anchored,mappingpiracy
+21-01-2009,NA,-75.55,10.3833,Boarding,"Cartagena Anchorage 'D', Colombia",COL,COL,1.231039418,-75.53917396,10.38629792,NA,Avocet Arrow,NA,Anchored,mappingpiracy
+21-01-2009,NA,-77.1265,-11.9265,Boarding,"La Pampilla Port, Peru",PER,PER,2.20142035,-77.1459041,-11.93206146,NA,Histria Coral,NA,Berthed,mappingpiracy
+28-01-2009,NA,39.3083,-6.7283,Attempted,"Dar Es Salaam Roads, Tanzania",TZA,TZA,3.126984882,39.28003991,-6.727146092,NA,Flora Delmas,NA,Steaming,mappingpiracy
+29-01-2009,NA,50.9667,14.1667,Hijacked,Gulf of Aden,YEM,YEM,104.0088382,50.66146895,15.05849844,NA,Longchamp,NA,Steaming,mappingpiracy
+29-01-2009,NA,108.425,-6.1733,Boarding,"Balongan Anchorage, Indonesia",IDN,IDN,10.80147273,108.3602691,-6.246400945,NA,Elka Athina,NA,Anchored,mappingpiracy
+29-01-2009,NA,44.175,12.4617,Attempted,Gulf of Aden,YEM,YEM,17.31935131,44.16911869,12.61815013,NA,Eleni G,NA,Steaming,mappingpiracy
+01-02-2009,NA,107.0167,10.5667,Boarding,"Ho Chi Minh City Mooring Buoys RQ2, Vietnam",VNM,VNM,0.721780757,107.0114038,10.56281159,NA,Bossclip Trader,NA,Anchored,mappingpiracy
+06-02-2009,NA,-77.205,-12.025,Boarding,"Callao Anchorage No.1, Peru",PER,PER,5.233874077,-77.16649329,-12.05331797,NA,CSAV Maresias,NA,Anchored,mappingpiracy
+08-02-2009,NA,-38.6738,-12.8863,Boarding,"Off Itaparica Marina, Brazil",BRA,BRA,1.7866969,-38.68346107,-12.87322357,NA,Pico Alto,NA,Anchored,mappingpiracy
+09-02-2009,NA,82.3667,17.0167,Boarding,"Kakinada Lightering Anchorage, India",IND,IND,6.727231826,82.31169681,17.04661693,NA,Port Shanghai,NA,Anchored,mappingpiracy
+10-02-2009,NA,5.7833,5.9833,Attempted,"Off SE of Pennington Terminal, Nigeria",NGA,NGA,50.79110201,5.485118035,5.634344794,NA,Aramis,NA,Steaming,mappingpiracy
+11-02-2009,NA,48.2817,12.9917,Attempted,"58NM South of Balhaf, Gulf of Aden",YEM,YEM,108.6065368,48.18873132,13.96914297,NA,Polaris,NA,Steaming,mappingpiracy
+11-02-2009,NA,54.8467,10.65,Attempted,"108NM SE of Socotra Island, Somalia",YEM,YEM,203.3590048,54.14049789,12.3513443,NA,Ocean Diamond,NA,Steaming,mappingpiracy
+12-02-2009,NA,49.15,13.15,Attempted,Gulf of Aden,YEM,YEM,110.4088063,48.69581139,14.04360586,NA,Jolbos,NA,Steaming,mappingpiracy
+12-02-2009,NA,104.2403,1.301,Boarding,"Off Tanjung Bulat, Malaysia",MYS,MYS,5.517568326,104.2192489,1.346177476,NA,Arya Payam,NA,Anchored,mappingpiracy
+12-02-2009,NA,47.77,12.7333,Attempted,Gulf of Aden,YEM,YEM,109.6300573,47.39820397,13.65485261,NA,Prem Divya,NA,Steaming,mappingpiracy
+14-02-2009,NA,3.3167,6.25,Boarding,"Lagos Entrance, Nigeria",NGA,NGA,15.67501042,3.326182488,6.391424872,NA,Histria Tiger,NA,Anchored,mappingpiracy
+14-02-2009,NA,-77.1667,-12.5,Boarding,"Callao Anchorage, Peru",PER,PER,34.41965362,-77.0172013,-12.22576263,NA,CSAV Santos,NA,Anchored,mappingpiracy
+14-02-2009,NA,39.3333,-6.7167,Boarding,"Dar Es Salaam Roads, Tanzania",TZA,TZA,6.000651061,39.28003991,-6.727146092,NA,Safmarine Zambezi,NA,Anchored,mappingpiracy
+15-02-2009,NA,104.1683,1.295,Boarding,"Off Tanjung Penyusup, Malaysia",MYS,MYS,5.919000016,104.1740829,1.348211981,NA,Mandakini,NA,Anchored,mappingpiracy
+16-02-2009,NA,99.2682,4.9173,Boarding,Malacca Straits,MYS,MYS,108.5007795,100.1800236,5.27334219,NA,Majullah Jasmine,NA,Steaming,mappingpiracy
+18-02-2009,NA,-77.1667,-12.5,Boarding,"Callao Anchorage No.12, Peru",PER,PER,34.41965362,-77.0172013,-12.22576263,NA,Norasia Polaris,NA,Anchored,mappingpiracy
+19-02-2009,NA,99.1005,5.175,Boarding,Malacca Straits,MYS,MYS,120.0995326,100.1789657,5.277980861,NA,MLC Nancy 5 & Miclyn 3316,NA,Steaming,mappingpiracy
+19-02-2009,NA,52.9167,4.55,Attempted,East Coast of Somalia,SOM,NA,464.4641656,49.07129968,6.219916083,NA,Thai Union 1,NA,Steaming,mappingpiracy
+21-02-2009,NA,53.7183,14.5183,Attempted,Gulf of Aden,YEM,YEM,200.7439487,53.51894586,12.71435067,NA,Bahia,NA,Steaming,mappingpiracy
+22-02-2009,NA,47.022,12.5663,Hijacked,Gulf of Aden,YEM,YEM,101.7445262,46.70069421,13.43032461,NA,Saldanha,NA,Steaming,mappingpiracy
+22-02-2009,NA,82.3877,17.0273,Boarding,"Kakinada Anchorage, India",IND,IND,7.028912148,82.34205163,17.07318757,NA,Janesia Asphalt I,NA,Anchored,mappingpiracy
+22-02-2009,NA,6.7708,3.9935,Attempted,"20.5NM Off Onne, Nigeria",NGA,NGA,38.20052499,6.774587436,4.338934637,NA,Khatanga,NA,Steaming,mappingpiracy
+24-02-2009,NA,-77.1967,-12.02,Boarding,"Callao Anchorage No.1, Peru",PER,PER,4.93993971,-77.16649329,-12.05331797,NA,CSCL Sao Paulo,NA,Anchored,mappingpiracy
+24-02-2009,NA,49.7,13.8667,Attempted,Gulf of Aden,YEM,YEM,90.68060465,49.00367272,14.32477448,NA,Lia,NA,Steaming,mappingpiracy
+25-02-2009,NA,49.1583,13.14,Attempted,Gulf of Aden,YEM,YEM,111.8002123,48.69581139,14.04360586,NA,Yan Dang Hai,NA,Steaming,mappingpiracy
+26-02-2009,NA,43.5167,12.1833,Attempted,"Straits of Bab El Mandeb, Red Sea",DJI,DJI,11.60836051,43.41138757,12.16665274,NA,Diana C,NA,Steaming,mappingpiracy
+27-02-2009,NA,76.25,9.9667,Boarding,"Cochin Anchorage, India",IND,IND,0.427665274,76.25147546,9.963120835,NA,Ganda,NA,Anchored,mappingpiracy
+02-03-2009,NA,45.55,12.15,Attempted,Gulf of Aden,YEM,YEM,86.24448117,45.05860436,12.76203034,NA,Pro Alliance,NA,Steaming,mappingpiracy
+03-03-2009,NA,48.7167,13.0333,Attempted,Gulf of Aden,YEM,YEM,109.0831258,48.46876061,13.98895905,NA,Courier,NA,Steaming,mappingpiracy
+04-03-2009,NA,44.165,12.2983,Attempted,Gulf of Aden,YEM,YEM,35.38656476,44.16911869,12.61815013,NA,Consul Pope,NA,Steaming,mappingpiracy
+05-03-2009,NA,65.4667,7.9333,Attempted,"900NM Off Somalia, Indian Ocean",IND,NA,802.2701211,72.17269942,10.80923086,NA,Prabhu Daya,NA,Steaming,mappingpiracy
+07-03-2009,NA,82.3583,16.9917,Boarding,"Kakinada Anchorage, India",IND,IND,4.023705386,82.34888757,16.95648835,NA,Magic,NA,Anchored,mappingpiracy
+08-03-2009,NA,107.1283,10.265,Boarding,"Vung Tau Anchorage, Vietnam",VNM,VNM,7.856392874,107.0871688,10.32318757,NA,Olympian Racer,NA,Anchored,mappingpiracy
+09-03-2009,NA,58.7183,8.085,Attempted,Off Somalia,YEM,NA,673.1213454,54.52792684,12.5374461,NA,Shanghai Venture,NA,Steaming,mappingpiracy
+10-03-2009,NA,59.1633,8.75,Attempted,"385NM SE of Socotra Island, Somalia",YEM,NA,657.6071232,54.54029382,12.55023835,NA,Mar Reina,NA,Steaming,mappingpiracy
+11-03-2009,NA,49.7383,13.275,Attempted,"88NM Off Al Mukalla, Gulf of Aden",YEM,YEM,137.5402112,48.85254968,14.16697826,NA,Atalanta,NA,Steaming,mappingpiracy
+11-03-2009,NA,46.55,-4.0333,Attempted,"About 360NM SE of Mogadishu, Somalia",SYC,NA,585.9426313,46.31519616,-9.326429946,NA,Chong Chon Gang,NA,Steaming,mappingpiracy
+11-03-2009,NA,3.4292,6.33,Boarding,"Lagos Anchorage, Nigeria",NGA,NGA,8.969984992,3.384532097,6.397691148,NA,Emirates Swan,NA,Anchored,mappingpiracy
+13-03-2009,NA,58.8333,7.1833,Attempted,Off Somalia,YEM,NA,757.3254735,54.52792684,12.5374461,NA,Felipe Ruano,NA,Steaming,mappingpiracy
+14-03-2009,NA,49.2917,13.675,Attempted,"47NM Off Al Mukalla, Gulf of Aden",YEM,YEM,72.21626529,48.85254968,14.16697826,NA,Diamond Falcon,NA,Steaming,mappingpiracy
+15-03-2009,NA,91.7767,22.1783,Boarding,"Chittagong Anchorage 'C' , Bangladesh",BGD,BGD,3.750278348,91.81299889,22.18032461,NA,OEL Singapore,NA,Anchored,mappingpiracy
+16-03-2009,NA,43.425,12.5567,Attempted,"Straits of Bab El Mandeb, Red Sea",YEM,YEM,8.428657862,43.43580163,12.63214753,NA,Northern Star,NA,Steaming,mappingpiracy
+16-03-2009,NA,51.791,-8.1854,Hijacked,"Enroute from Seychelles to Madagascar, Off Southern Somalia",SYC,SYC,167.6716882,52.74341882,-7.004082941,NA,Serenity,NA,Steaming,mappingpiracy
+19-03-2009,NA,47.35,12.5833,Hijacked,Gulf of Aden,YEM,YEM,112.6504635,47.16684004,13.58559805,NA,Titan,NA,Steaming,mappingpiracy
+20-03-2009,NA,42.4633,13.71,Attempted,Southern Red Sea,ERI,ERI,24.13281219,42.28842207,13.57461172,NA,Valle di Aragona,NA,Steaming,mappingpiracy
+20-03-2009,NA,49.2167,13.1667,Attempted,Gulf of Aden,YEM,YEM,112.1743025,48.70183353,14.04669831,NA,Iasonas,NA,Steaming,mappingpiracy
+20-03-2009,NA,45.075,-7.8633,Attempted,Off Somalia,SYC,SYC,209.4693361,46.20736738,-9.385511977,NA,Ryu Gyong,NA,Steaming,mappingpiracy
+21-03-2009,NA,50.4167,4.1833,Boarding,145NM East of Somalia Coast,SOM,SOM,243.1229351,48.64673913,5.480047919,NA,Al Rafiquei,NA,Steaming,mappingpiracy
+22-03-2009,NA,52.186,-2.7667,Attempted,"About 490NM SE of Mogadishu, Somalia",SYC,SYC,319.9098764,53.33399499,-5.420179946,NA,Jasmine Ace,NA,Steaming,mappingpiracy
+22-03-2009,NA,51.1883,-2.4467,Attempted,"About 433NM SE of Mogadishu, Somalia",SYC,SYC,406.0631155,53.33399499,-5.420179946,NA,MSC Denisse,NA,Steaming,mappingpiracy
+22-03-2009,NA,50.225,-2.245,Attempted,"About 380NM SE of Mogadishu, Somalia",SYC,NA,492.438004,53.33399499,-5.420179946,NA,Patanassa,NA,Steaming,mappingpiracy
+23-03-2009,NA,50.8167,2.4667,Attempted,"212NM Of Mogadishu, Somalia",SOM,NA,387.3066398,47.94849694,4.4570987,NA,Ryu Gyong,NA,Steaming,mappingpiracy
+24-03-2009,NA,99.2333,6.6667,Boarding,"Off Koh Tong (Tong Island), Satun Province, Thailand",THA,THA,9.962846353,99.23926843,6.576808986,NA,Mr. Bean,NA,NA,mappingpiracy
+25-03-2009,NA,42.5667,13.5167,Attempted,Southern Red Sea,YEM,ERI,20.93906691,42.68848718,13.66376374,NA,Mount Adams,NA,Steaming,mappingpiracy
+25-03-2009,NA,-72.5217,18.5667,Boarding,"Port Au Prince Outer Anchorage S1, Haiti",HTI,HTI,7.927511812,-72.596547,18.56085847,NA,Iver Prosperity,NA,Anchored,mappingpiracy
+25-03-2009,NA,56.025,0.4017,Attempted,"About 600NM East of Mogadishu, Somalia",SYC,NA,465.401028,55.65967858,-3.791110935,NA,Explorer III,NA,Steaming,mappingpiracy
+25-03-2009,NA,46.87,-7.9067,Attempted,Off Southern Somalia,SYC,SYC,164.9456858,46.44776452,-9.337660415,NA,Preventer,NA,Steaming,mappingpiracy
+25-03-2009,NA,53.6987,1.7088,Hijacked,"About 370NM ESE of Hobyo, Somalia",SYC,NA,646.10658,55.65967858,-3.791110935,NA,Nipayia,NA,Steaming,mappingpiracy
+26-03-2009,NA,48.1833,-2.4333,Hijacked,"About 310NM SE of Mogadishu, Somalia",SOM,NA,585.5370778,45.60564212,2.183050848,NA,Bow Asir,NA,Steaming,mappingpiracy
+26-03-2009,NA,43.3,12.6333,Attempted,"Straits of Bab El Mandeb, Red Sea",YEM,YEM,10.31075104,43.3927515,12.65306224,NA,Hugli Spirit,NA,Steaming,mappingpiracy
+26-03-2009,NA,3.4177,6.2993,Attempted,"Lagos Anchorage, Nigeria",NGA,NGA,11.48304177,3.384532097,6.397691148,NA,MS Simon,NA,Steaming,mappingpiracy
+28-03-2009,NA,46.74,-7.3617,Attempted,Off Tanzania/Southern Somalia,SYC,SYC,220.8945108,46.44776452,-9.337660415,NA,Maersk Neustadt,NA,Steaming,mappingpiracy
+28-03-2009,NA,47,-9,Hijacked,"Approx. 09S - 047E, Off Seychelles/Off Southern Somalia",SYC,SYC,67.09423125,46.5251571,-9.381280206,NA,Indian Ocean Explorer,NA,Steaming,mappingpiracy
+28-03-2009,NA,46.8833,12.4333,Attempted,Gulf of Aden,YEM,YEM,112.0664767,46.70069421,13.43032461,NA,Grandezza,NA,Steaming,mappingpiracy
+29-03-2009,NA,47.9223,12.5331,Attempted,Gulf of Aden,YEM,YEM,136.495946,47.39820397,13.65485261,NA,FGS Spessart,NA,Steaming,mappingpiracy
+29-03-2009,NA,44.8883,11.8367,Attempted,Gulf of Aden,YEM,YEM,98.81110978,44.88135827,12.72988516,NA,Siteam Leader,NA,Steaming,mappingpiracy
+30-03-2009,NA,106.7455,10.707,Boarding,"Mooring Buoy No.41, Port of Ho Chi Minh City, Vietnam",VNM,VNM,3.459236222,106.7672632,10.68431224,NA,Bulk Voyager,NA,Anchored,mappingpiracy
+30-03-2009,NA,58.8333,9.75,Attempted,Off Somalia,YEM,NA,561.9534106,54.54029382,12.55023835,NA,Eastern Queen,NA,Steaming,mappingpiracy
+31-03-2009,NA,104.8203,2.2953,Boarding,"13NM South of Pulau Aur, Malaysia",MYS,MYS,81.64450978,104.2226669,2.724107164,NA,PU 2414,NA,Steaming,mappingpiracy
+01-04-2009,NA,104.4033,2.5017,Boarding,"6NM NW Off Pulau Aur, Malaysia",MYS,MYS,31.75394268,104.2226669,2.724107164,NA,Terus Daya 23,NA,Steaming,mappingpiracy
+02-04-2009,NA,51.2367,13.8517,Attempted,"94NM SSW of Ras Sharwayn, Gulf of Aden",YEM,YEM,144.7317417,51.06983483,15.14964427,NA,Grain Express,NA,Steaming,mappingpiracy
+02-04-2009,NA,56.5417,5.5167,Attempted,Off Somalia,SOM,NA,761.6895712,50.63363692,9.073187567,NA,CMA CGM Azteca,NA,Steaming,mappingpiracy
+04-04-2009,NA,58.5833,9.6,Hijacked,Off Somalia,YEM,NA,549.1637197,54.54029382,12.55023835,NA,Tanit,NA,Steaming,mappingpiracy
+04-04-2009,NA,48.05,-2.6667,Hijacked,"About 315NM SE of Mogadishu, Somalia",SOM,NA,600.670164,45.26620527,1.987290757,NA,Hansa Stravanger,NA,Steaming,mappingpiracy
+04-04-2009,NA,58.257,9.4087,Attempted,"287NM Off Socotra Island, Somalia",YEM,NA,534.5294976,54.54029382,12.55023835,NA,Africa Star,NA,Steaming,mappingpiracy
+05-04-2009,NA,47.9223,12.5331,Hijacked,Gulf of Aden,YEM,YEM,136.495946,47.39820397,13.65485261,NA,Al Shahir,NA,Steaming,mappingpiracy
+06-04-2009,NA,67.2502,15.2245,Attempted,"350NM West Coast of India, Arabian Sea",IND,NA,664.1816108,73.30298913,16.53302643,NA,Shanghai Venture,NA,Steaming,mappingpiracy
+06-04-2009,NA,105.7667,10.05,Boarding,"Off Can Tho, Vietnam",VNM,VNM,7.383881087,105.819021,10.00796133,NA,Astaka,NA,Steaming,mappingpiracy
+06-04-2009,NA,49.0333,-12.55,Hijacked,Gulf of Aden,MDG,MDG,12.2695807,48.94581139,-12.47991302,NA,Malaspina Castle,NA,Steaming,mappingpiracy
+06-04-2009,NA,55.4167,-1.85,Hijacked,"About 630NM SE of Mogadishu, Somalia",SYC,SYC,216.3356677,55.65967858,-3.791110935,NA,Win Far 161,NA,Steaming,mappingpiracy
+07-04-2009,NA,105.4304,5.7625,Hijacked,"En route Singapore to Vietnam, South China Sea",MYS,MYS,243.8500221,103.4480087,4.806545315,NA,Prospaq T1 & Prospaq B1,NA,Steaming,mappingpiracy
+07-04-2009,NA,54.5167,6.45,Hijacked,Off Somalia,SOM,NA,517.2939211,50.63363692,9.073187567,NA,Maersk Alabama,NA,Steaming,mappingpiracy
+08-04-2009,NA,-77.1667,3.825,Boarding,"Buenaventura No.5 Anchorage, Colombia",COL,COL,2.203796908,-77.15038001,3.813666083,NA,Genco Charger,NA,Anchored,mappingpiracy
+09-04-2009,NA,49.155,13.1283,Attempted,Gulf of Aden,YEM,YEM,112.8018791,48.69581139,14.04360586,NA,Calm Seas,NA,Steaming,mappingpiracy
+09-04-2009,NA,51.4833,14.1333,Attempted,Gulf of Aden,YEM,YEM,120.462005,51.26880944,15.20180899,NA,Ryu Gyong,NA,Steaming,mappingpiracy
+09-04-2009,NA,39.3343,-6.7475,Boarding,"Dar Es Salaam Anchorage, Tanzania",TZA,TZA,5.594532919,39.28443444,-6.756117446,NA,Ludwig Schulte,NA,Anchored,mappingpiracy
+10-04-2009,NA,49.1833,11.2833,Hijacked,"In the vicinity of Ras Kampomi, Off Bossaso, Gulf of Aden",SOM,SOM,6.426665603,49.23959395,11.30027904,NA,Momtaz 1,NA,Steaming,mappingpiracy
+10-04-2009,NA,49.1833,11.2833,Hijacked,"In the vicinity of Ras Kampomi, Off Bossaso, Gulf of Aden",SOM,SOM,6.426665603,49.23959395,11.30027904,NA,Samarah Ahmed,NA,Steaming,mappingpiracy
+11-04-2009,NA,46.3167,12.4,Hijacked,Gulf of Aden,YEM,YEM,112.1306127,46.31299889,13.41356029,NA,Buccaneer,NA,Steaming,mappingpiracy
+11-04-2009,NA,51.7383,0.3033,Attempted,330NM Off Somalia,SOM,NA,620.270776,47.48926843,3.936346747,NA,DAL Madagascar,NA,Steaming,mappingpiracy
+11-04-2009,NA,46.3933,12.2667,Attempted,Gulf of Aden,YEM,YEM,127.1752846,46.31299889,13.41356029,NA,Anatolia,NA,Steaming,mappingpiracy
+12-04-2009,NA,120.885,14.6033,Boarding,"MICT Pilot Boarding Ground, Manila North Harbour, Philippines",PHL,PHL,7.103394583,120.9502059,14.61277904,NA,Olympian Racer,NA,Steaming,mappingpiracy
+12-04-2009,NA,48.8167,13.05,Attempted,Gulf of Aden,YEM,YEM,110.4993741,48.46876061,13.98895905,NA,Panamax Anna,NA,Steaming,mappingpiracy
+13-04-2009,NA,48.25,12.9,Hijacked,Gulf of Aden,YEM,YEM,118.4697861,48.18873132,13.96914297,NA,Irene E.M.,NA,Steaming,mappingpiracy
+14-04-2009,NA,48.3333,-3.75,Attempted,"About 380NM SE of Mogadishu, Somalia",SYC,NA,584.8137724,53.33399499,-5.420179946,NA,Safmarine Asia,NA,Steaming,mappingpiracy
+14-04-2009,NA,47.6333,2.2667,Hijacked,"About 100NM East of Mogadishu, Soalia",SOM,SOM,138.9207074,46.83423913,3.232489325,NA,Sea Horse,NA,Steaming,mappingpiracy
+14-04-2009,NA,46.4167,-2.6833,Attempted,Off Southern Somalia,SOM,NA,488.6616689,43.28549238,0.414984442,NA,Liberty Sun,NA,Steaming,mappingpiracy
+17-04-2009,NA,47.8167,12.85,Attempted,Gulf of Aden,YEM,YEM,99.92802633,47.39820397,13.65485261,NA,Puma,NA,Steaming,mappingpiracy
+18-04-2009,NA,56.8,-2.75,Hijacked,Off Southern Somalia,SYC,SYC,171.215447,55.65967858,-3.791110935,NA,Pompei,NA,Steaming,mappingpiracy
+18-04-2009,NA,45.75,12.2333,Attempted,Gulf of Aden,YEM,YEM,95.23291963,45.05860436,12.76203034,NA,Handytankers Magic,NA,Steaming,mappingpiracy
+18-04-2009,NA,46.495,12.305,Attempted,Gulf of Aden,YEM,YEM,122.6108608,46.52003014,13.41303132,NA,Front Ardenne,NA,Steaming,mappingpiracy
+18-04-2009,NA,47.6446,12.5182,Hijacked,International waters of Gulf of Aden,YEM,YEM,128.5568691,47.39820397,13.65485261,NA,Afraaf,NA,Steaming,mappingpiracy
+18-04-2009,NA,47.6446,12.5182,Hijacked,International waters of Gulf of Aden,YEM,YEM,128.5568691,47.39820397,13.65485261,NA,Farei Ali,NA,Steaming,mappingpiracy
+19-04-2009,NA,3.3617,3.4817,Boarding,"Berth No. 1, Tin Can Island Terminal, Lagos Port, Nigeria",NGA,NGA,278.1647546,5.566905144,4.675238348,NA,Aristeas P,NA,Berthed,mappingpiracy
+20-04-2009,NA,47.6817,13.2483,Attempted,Gulf of Aden,YEM,YEM,54.45615778,47.39820397,13.65485261,NA,Atlantica,NA,Steaming,mappingpiracy
+20-04-2009,NA,6.125,4,Boarding,"30NM Off Onne, Nigeria",NGA,NGA,30.12615932,6.112803582,4.272162177,NA,Aleyna Mercan,NA,Steaming,mappingpiracy
+20-04-2009,NA,47.7917,12.725,Attempted,Gulf of Aden,YEM,YEM,111.3643448,47.39820397,13.65485261,NA,New Legend Honor,NA,Steaming,mappingpiracy
+20-04-2009,NA,105.2867,3.0833,Boarding,"Off Pulau Mangkai, South China Sea",IDN,IDN,44.64358956,105.6818954,3.011460679,NA,Quds,NA,Steaming,mappingpiracy
+21-04-2009,NA,39.35,-6.7667,Boarding,"Dar Es Salaam Anchorage, Tanzania",TZA,TZA,6.639455418,39.32650801,-6.821954034,NA,Gotland Carolina,NA,Anchored,mappingpiracy
+21-04-2009,NA,118.1167,5.8267,Boarding,"Sandakan Port, Malaysia",MYS,MYS,2.314211146,118.0959579,5.82416413,NA,MCP Rotterdam,NA,Berthed,mappingpiracy
+22-04-2009,NA,105.475,3.18,Boarding,"Off Pulau Mangkai, South China Sea",IDN,IDN,27.21392271,105.6887313,3.059963283,NA,Ellen S,NA,Steaming,mappingpiracy
+22-04-2009,NA,105.4833,3.2167,Boarding,"Off Pulau Mangkai, South China Sea",IDN,IDN,28.66696275,105.6887313,3.059963283,NA,Sider Lion,NA,Steaming,mappingpiracy
+24-04-2009,NA,98.7617,3.9433,Boarded,"Belawan Roads, Indonesia",IDN,IDN,9.969570051,98.6766198,3.914546933,NA,London Tower,NA,Anchored,mappingpiracy
+25-04-2009,NA,51.5283,14.015,Attempted,Gulf of Aden,YEM,YEM,134.2576947,51.26880944,15.20180899,NA,S. Bothnia,NA,Steaming,mappingpiracy
+25-04-2009,NA,51.5667,14.0167,Hijacked,Gulf of Aden,YEM,YEM,134.9970911,51.26880944,15.20180899,NA,Patriot,NA,Steaming,mappingpiracy
+25-04-2009,NA,55.65,-1.5833,Attempted,"About 645NM ESE of Mogadishu, Somalia",SYC,SYC,244.1351577,55.65967858,-3.791110935,NA,Melody,NA,Steaming,mappingpiracy
+26-04-2009,NA,47.4067,13.425,Hijacked,Gulf of Aden,YEM,YEM,25.4464054,47.39820397,13.65485261,NA,GNA,NA,Steaming,mappingpiracy
+27-04-2009,NA,56.62,13.1383,Attempted,Gulf of Aden,YEM,YEM,234.9414469,54.54029382,12.55023835,NA,NS Commander,NA,Steaming,mappingpiracy
+28-04-2009,NA,56.5043,13.8167,Attempted,Gulf of Aden,YEM,YEM,254.8690953,54.54029382,12.55023835,NA,Boularibank,NA,Steaming,mappingpiracy
+28-04-2009,NA,46.1167,12.5167,Attempted,Gulf of Aden,YEM,YEM,98.14506485,45.43409264,13.09833405,NA,Skaftafell,NA,Steaming,mappingpiracy
+29-04-2009,NA,47.2,-1.6667,Attempted,"250NM SE of Mogadishu, Somalia",SOM,NA,457.6775204,45.23218835,1.967678127,NA,Jolly Smeraldo,NA,Steaming,mappingpiracy
+30-04-2009,NA,51.5333,-7.7667,Attempted,"Alphouse Island, Off Southern Somalia",SYC,SYC,157.9929938,52.74341882,-7.004082941,NA,Jasper S,NA,Steaming,mappingpiracy
+30-04-2009,NA,50.1333,0.6,Attempted,"255NM ESE of Mogadishu, Somalia",SOM,NA,468.0557195,47.03980554,3.469265041,NA,Jolly Smeraldo,NA,Steaming,mappingpiracy
+30-04-2009,NA,59.5617,-4.0217,Attempted,"About 900NM ESE of Mogadishu, Somalia",SYC,NA,405.2923841,55.92478575,-4.337081068,NA,Cristina A,NA,Steaming,mappingpiracy
+01-05-2009,NA,53.3167,-3.0833,Attempted,"About 560NM SE of Mogadishu, Somalia",SYC,SYC,258.420558,53.33399499,-5.420179946,NA,Mare Caribbean,NA,Steaming,mappingpiracy
+01-05-2009,NA,60.1,-4.8667,Attempted,"About 960NM ESE of Mogadishu, Somalia",SYC,NA,461.4050687,55.95014403,-4.59099288,NA,IVS Cabernet,NA,Steaming,mappingpiracy
+02-05-2009,NA,52.1833,-7.3167,Hijacked,Off Southern Somalia,SYC,SYC,70.87348817,52.74341882,-7.004082941,NA,Ariana,NA,Steaming,mappingpiracy
+02-05-2009,NA,50.2,-6.1167,Attempted,Off Southern Somalia,SYC,SYC,297.4012436,52.74187259,-6.994317316,NA,Mare Caribbean,NA,Steaming,mappingpiracy
+02-05-2009,NA,47.9667,4.2,Hijacked,"Off Mogadishu, Somalia",SOM,SOM,20.98589328,47.84058679,4.341376044,NA,Almezaan,NA,Steaming,mappingpiracy
+03-05-2009,NA,118.0983,5.8117,Boarding,"Sandakan Inner Anchorage, Malaysia",MYS,MYS,1.40254902,118.0959579,5.82416413,NA,Jbu Opal,NA,Anchored,mappingpiracy
+03-05-2009,NA,118.1167,5.8267,Boarding,"Karamunting Palm Oil Terminal, Sandakan Port, Malaysia",MYS,MYS,2.314211146,118.0959579,5.82416413,NA,Jbu Opal,NA,Berthed,mappingpiracy
+03-05-2009,NA,118.1167,5.8267,Attempted,"Sandakan Anchorage, Malaysia",MYS,MYS,2.314211146,118.0959579,5.82416413,NA,MCP Rotterdam,NA,Anchored,mappingpiracy
+04-05-2009,NA,76.1078,9.9155,Boarding,"Cochin Anchorage, India",IND,IND,14.68412145,76.23633874,9.952704169,NA,United Ambassador,NA,Anchored,mappingpiracy
+05-05-2009,NA,49.3833,13.3667,Hijacked,Gulf of Aden,YEM,YEM,104.3582779,48.73829186,14.06818268,NA,Victoria,NA,Steaming,mappingpiracy
+05-05-2009,NA,-72.3432,18.55,Boarding,"Port Au Prince, Haiti",HTI,HTI,0.4358399826,-72.34569251,18.54686107,NA,Wesertor,NA,Anchored,mappingpiracy
+05-05-2009,NA,49.15,13.1333,Attempted,Gulf of Aden,YEM,YEM,112.0669434,48.69581139,14.04360586,NA,Neverland,NA,Steaming,mappingpiracy
+05-05-2009,NA,49.1483,13.1617,Attempted,Gulf of Aden,YEM,YEM,109.1680962,48.69581139,14.04360586,NA,Michael S,NA,Steaming,mappingpiracy
+05-05-2009,NA,91.7932,22.2167,Attempted,"Chittagong Outer Anchorage, Bangladesh",BGD,BGD,2.332013422,91.81202233,22.20502351,NA,Chitral,NA,Anchored,mappingpiracy
+05-05-2009,NA,53.8167,-2.6333,Attempted,Off Southern Somalia,SYC,SYC,241.4134665,55.65186608,-3.801202081,NA,Grand Victory,NA,Steaming,mappingpiracy
+06-05-2009,NA,49.9917,13.5933,Attempted,Gulf of Aden,YEM,YEM,132.5719978,49.46045983,14.67357005,NA,Nepheli,NA,Steaming,mappingpiracy
+07-05-2009,NA,50.5833,13.7167,Hijacked,Gulf of Aden,YEM,YEM,132.0463013,50.17953535,14.84332917,NA,Marathon,NA,Steaming,mappingpiracy
+07-05-2009,NA,51.2333,14.7333,Attempted,Gulf of Aden,YEM,YEM,49.31007798,51.06983483,15.14964427,NA,Omo Wonz,NA,Steaming,mappingpiracy
+07-05-2009,NA,45.7533,12.2067,Attempted,Gulf of Aden,YEM,YEM,97.34898215,45.05860436,12.76203034,NA,Sea Giant,NA,Steaming,mappingpiracy
+07-05-2009,NA,49,13.0667,Attempted,Gulf of Aden,YEM,YEM,112.983942,48.69581139,14.04360586,NA,Anny Petrakis,NA,Steaming,mappingpiracy
+07-05-2009,NA,39.3067,-6.7017,Boarding,"Dar Es Salaam Anchorage, Tanzania",TZA,TZA,4.075185801,39.28003991,-6.727146092,NA,Mol Silver Fern,NA,Anchored,mappingpiracy
+09-05-2009,NA,-77.1667,-12.5,Boarding,"Pier 5D, Callao Port, Peru",PER,PER,34.41965362,-77.0172013,-12.22576263,NA,Cap Villano,NA,Berthed,mappingpiracy
+10-05-2009,NA,43.4333,12.55,Attempted,"Straits of Bab El Mandeb, Red Sea",YEM,DJI,9.091803974,43.43580163,12.63214753,NA,NS Spirit,NA,Steaming,mappingpiracy
+12-05-2009,NA,57.3017,-1.04,Attempted,"About 740NM East of Mogadishu, Somalia",SYC,SYC,354.8084409,55.65967858,-3.791110935,NA,Safmarine Bandama,NA,Steaming,mappingpiracy
+13-05-2009,NA,49.3,13.3,Attempted,Gulf of Aden,YEM,YEM,104.4773555,48.73829186,14.06818268,NA,Amira,NA,Steaming,mappingpiracy
+17-05-2009,NA,51.9167,14.15,Attempted,Gulf of Aden,YEM,YEM,132.8384381,51.47429447,15.27069733,NA,Dubai Princess,NA,Steaming,mappingpiracy
+17-05-2009,NA,103.7367,4.7767,Attempted,"3.8NM East of Pulau Tenggol, Malaysia",MYS,MYS,32.02696959,103.4485783,4.795070705,NA,Pacific Copper,NA,Steaming,mappingpiracy
+18-05-2009,NA,48.5,12.7667,Attempted,Gulf of Aden,YEM,YEM,135.2654679,48.46876061,13.98895905,NA,Noor,NA,Steaming,mappingpiracy
+18-05-2009,NA,48.5,12.9333,Attempted,Gulf of Aden,YEM,YEM,116.8412842,48.46876061,13.98895905,NA,Jurkalne,NA,Steaming,mappingpiracy
+19-05-2009,NA,49.1717,13.23,Attempted,Gulf of Aden,YEM,YEM,103.6769169,48.70183353,14.04669831,NA,Maria K,NA,Steaming,mappingpiracy
+19-05-2009,NA,54,-9.9167,Attempted,Off Southern Somalia,MUS,MUS,280.3950419,56.52418054,-10.33001067,NA,Vinalines Galaxy,NA,Steaming,mappingpiracy
+21-05-2009,NA,-83.0967,10.0333,Boarding,"Puerto Moin Outer Roads, Costa Rica",CRI,CRI,3.169998555,-83.12466387,10.04059479,NA,Pluto,NA,Anchored,mappingpiracy
+21-05-2009,NA,3.7333,6.0833,Boarding,"Lagos Roads, Nigeria",NGA,NGA,41.39617008,3.870290561,6.431626695,NA,Reval,NA,Steaming,mappingpiracy
+23-05-2009,NA,-77.1893,-12.031,Boarding,"Callao Anchorage, Peru",PER,PER,3.501746465,-77.16649329,-12.05331797,NA,Jandavid S,NA,Anchored,mappingpiracy
+23-05-2009,NA,91.7932,22.2167,Boarding,"Chittagong Anchorage 'C' , Bangladesh",BGD,BGD,2.332013422,91.81202233,22.20502351,NA,Martha Russ,NA,Anchored,mappingpiracy
+23-05-2009,NA,106.8983,-6.0117,Attempted,"Jakarta Tanker Anchorage, Indonesia",IDN,IDN,11.18917337,106.9990341,-6.003513279,NA,Challenge Paragon,NA,Anchored,mappingpiracy
+25-05-2009,NA,3.4167,6.4167,Attempted,"Folawiyo Terminal, Nispan Jetty, Apapa Port, Lagos, Nigeria",NGA,NGA,0.5756149463,3.421153191,6.41400788,NA,Marimba,NA,Berthed,mappingpiracy
+25-05-2009,NA,49.3317,13.1833,Attempted,Gulf of Aden,YEM,YEM,117.0781156,48.73829186,14.06818268,NA,Costis,NA,Steaming,mappingpiracy
+26-05-2009,NA,48.9667,13.0833,Attempted,Gulf of Aden,YEM,YEM,110.2150766,48.69581139,14.04360586,NA,Antonis,NA,Steaming,mappingpiracy
+28-05-2009,NA,48.8105,13.0228,Attempted,Gulf of Aden,YEM,YEM,113.1123481,48.46876061,13.98895905,NA,Maud,NA,Steaming,mappingpiracy
+28-05-2009,NA,96.2588,16.648,Boarding,"MITT Anchorage Yangon, Myanmar",MMR,MMR,0.8608719455,96.2615666,16.64069245,NA,Sianr Bangka,NA,Anchored,mappingpiracy
+28-05-2009,NA,104.4,2.4,Boarding,"Off Aur Island, Malaysia",MYS,MYS,40.70126302,104.2107854,2.71507396,NA,Topniche 5,NA,Steaming,mappingpiracy
+29-05-2009,NA,13.0518,-5.8658,Boarding,"Boma Roads, Democratic Republic of Congo",COD,AGO,1.744029377,13.06722705,-5.862628663,NA,Nordertor,NA,Anchored,mappingpiracy
+29-05-2009,NA,46.4333,12.3333,Attempted,Gulf of Aden,YEM,YEM,119.8204235,46.52003014,13.41303132,NA,Lake Globe,NA,Steaming,mappingpiracy
+29-05-2009,NA,46.3667,12.1983,Attempted,Gulf of Aden,YEM,YEM,134.5692432,46.31299889,13.41356029,NA,Sea Phantom,NA,Steaming,mappingpiracy
+31-05-2009,NA,48.705,12.995,Attempted,Gulf of Aden,YEM,YEM,112.9016237,48.46876061,13.98895905,NA,British Mallard,NA,Steaming,mappingpiracy
+31-05-2009,NA,43.0167,13.4833,Attempted,Gulf of Aden,YEM,YEM,26.15813838,43.25424238,13.52655671,NA,Stolt Strength,NA,Steaming,mappingpiracy
+01-06-2009,NA,50.4833,13.5533,Attempted,Gulf of Aden,YEM,YEM,146.4478685,50.17953535,14.84332917,NA,United Lady,NA,Steaming,mappingpiracy
+01-06-2009,NA,104.2648,1.3205,Boarding,"East OPL Anchorage, Singapore Straits",MYS,MYS,5.364074703,104.2773544,1.36733633,NA,Garnet,NA,Anchored,mappingpiracy
+03-06-2009,NA,-48.505,-1.2862,Boarding,"Icoaraci Inner Anchorage, Brazil",BRA,BRA,2.534499442,-48.48275288,-1.281300494,NA,BBC Alabama,NA,Anchored,mappingpiracy
+03-06-2009,NA,52.5407,9.8464,Hijacked,Enroute from Somali Port to Sharjahm UAE. Somalia,SOM,SOM,139.2503289,51.3975089,10.39579317,NA,Vishwa Kalyan,NA,Steaming,mappingpiracy
+03-06-2009,NA,-77.2217,-12.01,Attempted,"Callao Anchorage No.12, Peru",PER,PER,5.932014687,-77.24410791,-12.05887765,NA,Norasia Polaris,NA,Anchored,mappingpiracy
+04-06-2009,NA,-75.5167,10.3117,Boarding,"Mamonal Anchorage, Cartagena, Colombia",COL,COL,0.8145247289,-75.51569577,10.31899649,NA,Corona,NA,Anchored,mappingpiracy
+06-06-2009,NA,-1.69,4.8917,Boarding,"2.5NM East of Takoradi Breakwater, Ghana",GHA,GHA,5.103788139,-1.718820767,4.927679755,NA,Nord Express,NA,Anchored,mappingpiracy
+07-06-2009,NA,48.9,13.0533,Attempted,Gulf of Aden,YEM,YEM,111.7697073,48.69581139,14.04360586,NA,Cemtex Venture,NA,Steaming,mappingpiracy
+07-06-2009,NA,48.895,13.0833,Attempted,Gulf of Aden,YEM,YEM,108.4091001,48.69581139,14.04360586,NA,Aisha,NA,Steaming,mappingpiracy
+09-06-2009,NA,9.5392,3.8965,Boarding,"Douala Anchorage, Cameroon",CMR,CMR,7.24227675,9.476898634,3.915838934,NA,Sevastopolskaya Bukhta,NA,Anchored,mappingpiracy
+09-06-2009,NA,9.5367,3.8883,Boarding,"Douala Anchorage, Cameroon",CMR,CMR,7.306574883,9.476898634,3.915838934,NA,Anuket Ivory,NA,Anchored,mappingpiracy
+10-06-2009,NA,6.81,4.0167,Boarding,"20NM Off Nigeria Coast, Nigeria",NGA,NGA,35.849016,6.774587436,4.338934637,NA,Tennei Maru,NA,Anchored,mappingpiracy
+10-06-2009,NA,58.0167,18.6967,Attempted,Off Oman,OMN,OMN,38.78363351,57.80111738,18.98065827,NA,Gokcan,NA,Steaming,mappingpiracy
+12-06-2009,NA,59.85,21.9167,Hijacked,Off Oman,OMN,OMN,20.3968623,59.65503991,21.94574616,NA,Charelle,NA,Steaming,mappingpiracy
+12-06-2009,NA,91.7,22.2333,Boarding,"Chittagong Alpha Anchorage, Bangladesh",BGD,BGD,7.969683143,91.77165775,22.26032136,NA,Hong Kong Sun,NA,Steaming,mappingpiracy
+13-06-2009,NA,43.4167,13.6,Attempted,"Straits of Bab El Mandeb, Red Sea",YEM,YEM,13.24761266,43.29517663,13.58559805,NA,Gorgonilla,NA,Steaming,mappingpiracy
+14-06-2009,NA,43.4917,12.5583,Attempted,"Straits of Bab El Mandeb, Red Sea",YEM,YEM,10.10726564,43.447439,12.63865795,NA,Richmond Bridge,NA,Steaming,mappingpiracy
+14-06-2009,NA,43.15,12.9833,Attempted,"Straits of Bab El Mandeb, Red Sea",ERI,ERI,17.43379036,43.04314212,12.86562735,NA,Milos,NA,Steaming,mappingpiracy
+14-06-2009,NA,43.4667,12.5833,Attempted,"Straits of Bab El Mandeb, Red Sea",YEM,YEM,6.361797983,43.43580163,12.63214753,NA,Salalah LNG,NA,Steaming,mappingpiracy
+14-06-2009,NA,43.155,12.965,Attempted,"Straits of Bab El Mandeb, Red Sea",ERI,ERI,16.37722052,43.04314212,12.86562735,NA,Al Masilah,NA,Steaming,mappingpiracy
+15-06-2009,NA,48.45,12.9667,Attempted,Gulf of Aden,YEM,YEM,113.1155061,48.46876061,13.98895905,NA,Hadi,NA,Steaming,mappingpiracy
+18-06-2009,NA,41.4117,16,Attempted,Southern Red Sea,SAU,YEM,94.00241904,41.89408682,16.71039431,NA,Kang Long,NA,Steaming,mappingpiracy
+19-06-2009,NA,91.7667,22.1667,Boarding,"Chittagong Anchorage 'C' , Bangladesh",BGD,BGD,5.007752344,91.81299889,22.18032461,NA,Appen Anita,NA,Anchored,mappingpiracy
+19-06-2009,NA,43.3617,12.635,Attempted,"Straits of Bab El Mandeb, Red Sea",YEM,YEM,3.920742214,43.3927515,12.65306224,NA,Tenjun,NA,Steaming,mappingpiracy
+22-06-2009,NA,50.3167,13.55,Attempted,Gulf of Aden,YEM,YEM,143.2355187,50.06039473,14.82021719,NA,Bolan,NA,Steaming,mappingpiracy
+22-06-2009,NA,103.5967,1.1333,Boarding,"Off Nipa Shoal, Singapore Straits",MYS,IDN,17.60487064,103.516368,1.270453192,NA,Salviceroy,NA,Steaming,mappingpiracy
+22-06-2009,NA,50.3417,13.485,Attempted,Gulf of Aden,YEM,YEM,150.818725,50.06039473,14.82021719,NA,Maersk Phoenix,NA,Steaming,mappingpiracy
+24-06-2009,NA,117.0467,-1.3367,Attempted,"Balikpapan Outer Anchorage, Indonesia",IDN,IDN,13.7724567,116.9834091,-1.229668878,NA,Navios Aldebaran,NA,Anchored,mappingpiracy
+25-06-2009,NA,105.1833,2.9667,Boarding,"Off Pulau Mangkai, South China Sea",IDN,IDN,55.64891985,105.6818954,3.011460679,NA,Galax,NA,Steaming,mappingpiracy
+25-06-2009,NA,105.2367,2.9717,Boarding,"Off Pulau Mangkai, South China Sea",IDN,IDN,49.68673902,105.6818954,3.011460679,NA,Sao Bien 09 Alci,NA,Steaming,mappingpiracy
+27-06-2009,NA,105.1267,2.785,Boarding,"Off Pulau Mangkai, South China Sea",IDN,IDN,64.09994807,105.6964624,2.873480536,NA,Sigloo Discovery,NA,Steaming,mappingpiracy
+27-06-2009,NA,3.3833,6.2667,Boarding,"Lagos Outer Anchoarage, Nigeria",NGA,NGA,14.48666228,3.384532097,6.397691148,NA,Duden,NA,Anchored,mappingpiracy
+28-06-2009,NA,104.7972,1.9638,Boarding,"32NM Off Pulau Aur, Malaysia",MYS,MYS,69.05879981,104.222911,1.726874091,NA,White Tokio,NA,Steaming,mappingpiracy
+29-06-2009,NA,76.25,9.9667,Boarding,"Cochin Oil Terminal, India",IND,IND,0.427665274,76.25147546,9.963120835,NA,Atlantic Eagle,NA,Berthed,mappingpiracy
+29-06-2009,NA,-4.0497,5.2163,Boarding,"Abidjan Anchorage, Ivory Coast",CIV,CIV,5.517401686,-4.048573371,5.266180731,NA,Pearl River,NA,Anchored,mappingpiracy
+30-06-2009,NA,-17.25,11.3333,Attempted,45NM Off Guinea Bissau,GNB,GNB,92.24952224,-16.41942298,11.48822663,NA,Anna Stevns,NA,Steaming,mappingpiracy
+04-07-2009,NA,58.4967,14.855,Attempted,Off Oman,OMN,OMN,390.9108749,56.09555098,17.51886628,NA,Svyatoy Ioan,NA,Steaming,mappingpiracy
+06-07-2009,NA,91.7667,22.1833,Boarding,"Chittagong Anchorage 'C' , Bangladesh",BGD,BGD,4.786158863,91.81299889,22.18032461,NA,OEL Freedom,NA,Anchored,mappingpiracy
+08-07-2009,NA,50.7167,13.7333,Hijacked,Gulf of Aden,YEM,YEM,135.8044167,50.17953535,14.84332917,NA,Horizon 1,NA,Steaming,mappingpiracy
+12-07-2009,NA,107.0767,10.27,Boarding,"Vung Tau Outer Anchorage, Vietnam",VNM,VNM,5.993784332,107.0871688,10.32318757,NA,Dagmar,NA,Anchored,mappingpiracy
+12-07-2009,NA,-4.065,5.2083,Boarding,"Abidjan Roads, Ivory Coast",CIV,CIV,6.379218916,-4.059193489,5.26569245,NA,Abram Schulte,NA,Anchored,mappingpiracy
+12-07-2009,NA,103.7518,1.1485,Boarding,"Off Raffles Light House, Singapore Straits",SGP,SGP,13.85429955,103.7895614,1.267889716,NA,Kenryo,NA,Steaming,mappingpiracy
+13-07-2009,NA,44.905,12.3467,Attempted,Gulf of Aden,YEM,YEM,42.46828137,44.88135827,12.72988516,NA,A Elephant,NA,Steaming,mappingpiracy
+21-07-2009,NA,104.154,1.299,Boarding,"Off Tanjong Stapa, Malaysia",MYS,MYS,5.882723021,104.1740829,1.348211981,NA,PNG Express,NA,Anchored,mappingpiracy
+23-07-2009,NA,-83.0083,9.975,Boarding,"Puerto Limon Anchorage, Costa Rica",CRI,CRI,1.330681607,-83.01984616,9.978705145,NA,APL Bogota,NA,Anchored,mappingpiracy
+27-07-2009,NA,-48.4847,-1.0902,Boarding,"Mosqueiro Anchorage, Brazil",BRA,BRA,6.530967705,-48.45567786,-1.141534113,NA,Laura,NA,Anchored,mappingpiracy
+28-07-2009,NA,112.75,4.6533,Attempted,"75NM Off Miri, Sarawak, Malaysia",MYS,MYS,125.14528,113.4531356,3.768744208,NA,Baltic Strait,NA,Steaming,mappingpiracy
+02-08-2009,NA,105.102,2.8608,Boarding,"Off Pulau Mangkai, South China Sea",IDN,IDN,66.04553024,105.6955673,2.884588934,NA,Tahir,NA,Steaming,mappingpiracy
+02-08-2009,NA,6.622,3.9243,Attempted,"Bonny River, Port Harcourt Roads, Nigeria",NGA,NGA,44.94758961,6.618500196,4.330755927,NA,Duden,NA,Anchored,mappingpiracy
+03-08-2009,NA,5.0735,5.474,Boarding,"Escravos Anchorage, Nigeria",NGA,NGA,14.05597544,5.190603061,5.522853908,NA,Saturnas,NA,Anchored,mappingpiracy
+03-08-2009,NA,50.705,13.775,Attempted,Gulf of Aden,YEM,YEM,131.0937331,50.17953535,14.84332917,NA,Rimar,NA,Steaming,mappingpiracy
+04-08-2009,NA,48.8333,13.5333,Attempted,Gulf of Aden,YEM,YEM,58.38349031,48.69581139,14.04360586,NA,Notos Scan,NA,Steaming,mappingpiracy
+09-08-2009,NA,-79.9,-2.2667,Boarding,"Punta Arena Anchorage, Guayaquil, Ecuador",ECU,ECU,3.859221743,-79.86530514,-2.266778253,NA,NA,NA,Steaming,mappingpiracy
+12-08-2009,NA,88.0765,22.0265,Boarding,Haldia Port,IND,IND,1.065080109,88.08472741,22.02069733,NA,Summer Fortune,NA,Berthed,mappingpiracy
+14-08-2009,NA,47.4167,12.5833,Attempted,Gulf of Aden,YEM,YEM,114.1481579,47.16684004,13.58559805,NA,Elgiznur Cebi,NA,Steaming,mappingpiracy
+15-08-2009,NA,13.0518,-5.8658,Boarding,"Boma Roads, Democratic Republic of Congo",COD,AGO,1.744029377,13.06722705,-5.862628663,NA,China Frost,NA,Anchored,mappingpiracy
+15-08-2009,NA,104.2697,1.315,Boarding,"2.6NM Off Tanjung Ramunia, Malaysia",MYS,MYS,5.849442858,104.2773544,1.36733633,NA,Kirana Tritya,NA,Anchored,mappingpiracy
+16-08-2009,NA,54.6867,6.2883,Attempted,Somalia,SOM,NA,542.4094972,50.30347741,8.504584052,NA,Tian Wang Xing,NA,Steaming,mappingpiracy
+18-08-2009,NA,106.0038,-5.9367,Boarding,"Port Merak, Indonesia",IDN,IDN,2.21898928,105.9972437,-5.91773854,NA,Koombana Bay,NA,Berthed,mappingpiracy
+23-08-2009,NA,106.8617,20.6433,Boarding,"Haiphong Anchorage, Vietnam",VNM,VNM,6.940563729,106.8059188,20.67755768,NA,Name Withheld,NA,Anchored,mappingpiracy
+24-08-2009,NA,82.3933,17.0417,Attempted,"Kakinada Inner Roads, India",IND,IND,6.473518795,82.34205163,17.07318757,NA,Tigris,NA,Anchored,mappingpiracy
+26-08-2009,NA,107.0233,10.5757,Boarding,"Phy My Port, Vietnam",VNM,VNM,1.31693307,107.0227157,10.58759186,NA,Beluga Federation,NA,Berthed,mappingpiracy
+26-08-2009,NA,83.105,10.0667,Boarding,"Moin Anchorage, Costa Rica",LKA,LKA,257.7492209,81.1501571,8.777167059,NA,HS Liszt,NA,Anchored,mappingpiracy
+27-08-2009,NA,3.4167,6.4167,Boarding,"No. 5 Berth, Apapa Port, Lagos, Nigeria",NGA,NGA,0.5756149463,3.421153191,6.41400788,NA,Venezia D,NA,Berthed,mappingpiracy
+27-08-2009,NA,50.6213,45.5248,Boarding,"North Field Coral (2) Eastern Region, Caspian Sea",KAZ,KAZ,53.36843799,50.34839929,45.08490632,NA,Taj Island III,NA,Steaming,mappingpiracy
+28-08-2009,NA,106.1893,-5.8022,Boarding,"Berth No. 5, Ciwandan Port, Indonesia",IDN,IDN,14.75630798,106.0852157,-5.885511977,NA,Darling River,NA,Berthed,mappingpiracy
+30-08-2009,NA,103.6155,1.1529,Attempted,"Nippa Anchorage, Singapore Straits",MYS,IDN,17.04942841,103.516368,1.270453192,NA,Good Luck,NA,Anchored,mappingpiracy
+04-09-2009,NA,-75.5172,10.3255,Boarding,"Mamonal Inner Anchorage, Colombia",COL,COL,0.7379799005,-75.51569577,10.31899649,NA,Omega Emmanuel,NA,Anchored,mappingpiracy
+04-09-2009,NA,9.4173,3.8005,Attempted,"Near Buoy No.B3, Douala Port, Cameroon",CMR,CMR,11.25698321,9.412119988,3.902167059,NA,Loex,NA,Steaming,mappingpiracy
+05-09-2009,NA,45.5008,2.0633,Attempted,"10NM Off Mogadishu Anchorage, Somalia",SOM,SOM,17.64551958,45.60564212,2.183050848,NA,An San,NA,Steaming,mappingpiracy
+06-09-2009,NA,5.4667,6,Boarding,"Koko Port, Nigeria",NGA,NGA,21.90862523,5.290375196,5.91010163,NA,Erria Anne,NA,Berthed,mappingpiracy
+07-09-2009,NA,6.7917,3.8917,Hijacked,"Bonny River, Nigeria",NGA,NGA,49.49169337,6.774587436,4.338934637,NA,Jascon 40,NA,Steaming,mappingpiracy
+09-09-2009,NA,91.7733,22.1767,Boarding,"Chittagong Anchorage 'C' , Bangladesh",BGD,BGD,4.113868685,91.81299889,22.18032461,NA,Sanne,NA,Anchored,mappingpiracy
+13-09-2009,NA,98.7683,3.945,Boarding,"Belawan Anchorage, Indonesia",IDN,IDN,10.72437432,98.6766198,3.914546933,NA,Maersk Aberdeen,NA,Anchored,mappingpiracy
+14-09-2009,NA,104.2093,1.305,Boarding,"EOPL, Singapore Straits",MYS,MYS,4.685882327,104.2192489,1.346177476,NA,MMM Kingston,NA,Anchored,mappingpiracy
+14-09-2009,NA,104.23,1.3083,Attempted,Singapore Straits,MYS,MYS,4.355848631,104.2192489,1.346177476,NA,Pacific Harmony,NA,Anchored,mappingpiracy
+15-09-2009,NA,91.7867,22.1567,Boarding,"Chittagong Anchorage 'C' , Bangladesh",BGD,BGD,3.368466209,91.81934655,22.15595124,NA,Jin Hui,NA,Anchored,mappingpiracy
+16-09-2009,NA,56.4633,15.3333,Attempted,Off Oman,OMN,OMN,240.6248805,55.07178796,17.04218171,NA,CSAV Morumbi,NA,Steaming,mappingpiracy
+16-09-2009,NA,41.5667,15.4833,Attempted,Red Sea,ERI,ERI,103.0161471,41.16749108,14.63694896,NA,North Sea,NA,Steaming,mappingpiracy
+18-09-2009,NA,49.785,14.3367,Attempted,Gulf of Aden,YEM,YEM,49.61473905,49.57813561,14.73729076,NA,Harmony,NA,Steaming,mappingpiracy
+18-09-2009,NA,88.015,21.6967,Boarding,"Sagar Anchorage, Kolkata, India",IND,IND,3.472443297,88.04395593,21.68085358,NA,Kota Ratu,NA,Anchored,mappingpiracy
+18-09-2009,NA,105.3683,3.395,Boarding,"Off Anambas Island, South China Sea",IDN,IDN,51.38952573,105.6887313,3.059963283,NA,Prospect,NA,Steaming,mappingpiracy
+19-09-2009,NA,51.1633,13.9033,Attempted,Gulf of Aden,YEM,YEM,137.6764057,50.85132897,15.10993073,NA,Danny Boy,NA,Steaming,mappingpiracy
+19-09-2009,NA,51.0695,13.8683,Attempted,Gulf of Aden,YEM,YEM,138.8411162,50.66146895,15.05849844,NA,Prisco Alexandra,NA,Steaming,mappingpiracy
+19-09-2009,NA,105.2667,3.0667,Boarding,"Off Pulau Mangkai, South China Sea",IDN,IDN,46.5572007,105.6818954,3.011460679,NA,Normannia,NA,Steaming,mappingpiracy
+19-09-2009,NA,51.1167,13.8667,Attempted,Gulf of Aden,YEM,YEM,140.4989633,50.85132897,15.10993073,NA,Harvest Moon,NA,Steaming,mappingpiracy
+20-09-2009,NA,48.155,12.81,Attempted,Gulf of Aden,YEM,YEM,123.6678763,47.43604577,13.67804597,NA,BBC Portugal,NA,Steaming,mappingpiracy
+20-09-2009,NA,6.7667,3.9833,Boarding,"20NM Off Bonny River Fariway Buoy, Nigeria",NGA,NGA,39.3358721,6.774587436,4.338934637,NA,Nova Galicia,NA,Steaming,mappingpiracy
+21-09-2009,NA,3.4117,6.365,Attempted,"Lagos Breakwater, Nigeria",NGA,NGA,4.701518168,3.384532097,6.397691148,NA,Morning Ninni,NA,Steaming,mappingpiracy
+22-09-2009,NA,91.7167,22.2433,Boarding,"Chittagong Anchorage, Bangladesh",BGD,BGD,5.970312254,91.77165775,22.26032136,NA,Serasih,NA,Anchored,mappingpiracy
+26-09-2009,NA,48.75,13.1333,Attempted,Gulf of Aden,YEM,YEM,99.4397604,48.46876061,13.98895905,NA,Southern Cross,NA,Steaming,mappingpiracy
+26-09-2009,NA,45.65,12.25,Attempted,Gulf of Aden,YEM,YEM,85.67778282,45.05860436,12.76203034,NA,Panamax Peppou,NA,Steaming,mappingpiracy
+26-09-2009,NA,49.4185,13.1928,Attempted,Gulf of Aden,YEM,YEM,121.6418863,48.73829186,14.06818268,NA,Handy V,NA,Steaming,mappingpiracy
+26-09-2009,NA,49.319,13.1992,Attempted,Gulf of Aden,YEM,YEM,114.8525594,48.73829186,14.06818268,NA,Gem of Cochin,NA,Steaming,mappingpiracy
+27-09-2009,NA,91.725,22.2567,Boarding,"Chittagong Anchorage 'A', Bangladesh",BGD,BGD,4.825887946,91.77165775,22.26032136,NA,Wehr Elbe,NA,Anchored,mappingpiracy
+27-09-2009,NA,91.7207,22.187,Boarding,"Chittagong Anchorage 'B', Bangladesh",BGD,BGD,8.8724823,91.78711999,22.2379418,NA,Kirana Quartya,NA,Anchored,mappingpiracy
+28-09-2009,NA,-64.7017,10.2783,Boarding,"Puerto La Cruz Anchorage, Venezuela",VEN,VEN,5.853305032,-64.7170304,10.22760651,NA,Baltic Soul,NA,Anchored,mappingpiracy
+28-09-2009,NA,91.7367,22.2367,Attempted,"Chittagong Anchorage'B', Bangladesh",BGD,BGD,4.452741618,91.77165775,22.26032136,NA,DD Vigilant,NA,Anchored,mappingpiracy
+29-09-2009,NA,88.0167,21.6667,Boarding,"Sagar Anchorage, India",IND,IND,2.649064198,88.04224694,21.66815827,NA,Yasa H. Mulla,NA,Anchored,mappingpiracy
+01-10-2009,NA,-48.416,-27.5755,Boarding,"Barra Da Lagoa, Ilha De Santa Catarina, Brazil",BRA,BRA,0.9592395732,-48.40721595,-27.57919687,NA,Iemanja,NA,Anchored,mappingpiracy
+02-10-2009,NA,48.5667,-2.6,Hijacked,"335NM SE of Mogadishu, Somalia",SYC,NA,614.3798643,53.33399499,-5.420179946,NA,Alakrana,NA,Steaming,mappingpiracy
+03-10-2009,NA,91.6667,22,Attempted,"Chittagong Anchorage 'A', Bangladesh",BGD,BGD,20.96184145,91.84343509,21.90696849,NA,Livanita,NA,Steaming,mappingpiracy
+04-10-2009,NA,56.1183,-1.7867,Attempted,"620NM East of Somali Coast, Somalia",SYC,SYC,227.4316273,55.65967858,-3.791110935,NA,Hoegh Pusan,NA,Steaming,mappingpiracy
+05-10-2009,NA,50.8417,13.6367,Attempted,Gulf of Aden,YEM,YEM,151.4253536,50.17953535,14.84332917,NA,Seagreen,NA,Steaming,mappingpiracy
+06-10-2009,NA,-14.1,9.15,Boarding,"Conakry Anchorage, Guinea",GIN,GIN,57.17883427,-13.7224015,9.505804755,NA,Isola Verde,NA,Steaming,mappingpiracy
+07-10-2009,NA,45.46,12.1167,Attempted,Gulf of Aden,YEM,YEM,83.67241206,45.05860436,12.76203034,NA,Delta Ios,NA,Steaming,mappingpiracy
+07-10-2009,NA,58.0883,25.0317,Attempted,Gulf of Oman,IRN,IRN,57.36097117,58.17042077,25.54409414,NA,Zhong Chi,NA,Steaming,mappingpiracy
+10-10-2009,NA,-64.6917,10.258,Boarding,"Puerto La Cruz Anchorage, No. 10, Venezuela",VEN,VEN,4.359247756,-64.7170304,10.22760651,NA,Baltic Commander I,NA,Anchored,mappingpiracy
+11-10-2009,NA,-14.0167,9.25,Attempted,"27NM Off Conackry, Guinea",GIN,GIN,42.95895984,-13.7224015,9.505804755,NA,Iver Prosperity,NA,Steaming,mappingpiracy
+12-10-2009,NA,44.079,12.2638,Attempted,Gulf of Aden,YEM,YEM,37.99038095,44.03370202,12.6043155,NA,MCP Salzburg,NA,Steaming,mappingpiracy
+12-10-2009,NA,104.4246,2.767,Boarding,"Enroute from Singapore to Kuantan, Malaysia",MYS,MYS,22.44675674,104.2251083,2.735907294,NA,Intan T3501 & Kreuz 331,NA,Steaming,mappingpiracy
+13-10-2009,NA,91.79,22.17,Boarding,"Chittagong Anchorage 'C', Bangladesh",BGD,BGD,2.633134059,91.81299889,22.18032461,NA,Serasih,NA,Anchored,mappingpiracy
+13-10-2009,NA,104.175,1.2833,Boarding,"EOPL, Singapore Straits",MYS,MYS,7.178358964,104.1740829,1.348211981,NA,Lantana,NA,Anchored,mappingpiracy
+14-10-2009,NA,107.7167,6.4833,Attempted,South China Sea,IDN,IDN,191.8830325,108.0051376,4.772365627,NA,Win Lai Far,NA,Steaming,mappingpiracy
+15-10-2009,NA,55.8667,-1.55,Hijacked,Off Somalia,SYC,SYC,248.881751,55.65967858,-3.791110935,NA,Kota Wajar,NA,Steaming,mappingpiracy
+16-10-2009,NA,50.925,13.725,Attempted,Gulf of Aden,YEM,YEM,146.8411413,50.34302819,14.92475007,NA,Thor Spring,NA,Steaming,mappingpiracy
+16-10-2009,NA,3.44,6.3433,Boarding,"Lagos Anchorage, Nigeria",NGA,NGA,7.425229723,3.443614129,6.41034577,NA,Union Grace,NA,Anchored,mappingpiracy
+19-10-2009,NA,60.0833,-1.8833,Hijacked,Off Somalia,SYC,NA,535.1484743,55.65967858,-3.791110935,NA,De Xin Hai,NA,Steaming,mappingpiracy
+19-10-2009,NA,91.7217,22.1783,Boarding,"Chittagong Anchorage 'B', Bangladesh",BGD,BGD,9.418490399,91.81299889,22.18032461,NA,Hansa Straslund,NA,Anchored,mappingpiracy
+19-10-2009,NA,104.4246,2.767,Boarding,"Enroute from Kuantan to Singapore, Malaysia",MYS,MYS,22.44675674,104.2251083,2.735907294,NA,Intan T3501 & Kreuz 331,NA,Steaming,mappingpiracy
+21-10-2009,NA,-14.2,11.3833,Attempted,"35NM Off Conackry Pilot Station, Guinea",GIN,GIN,63.56002351,-14.50023353,10.89109935,NA,MSC Isabelle,NA,Steaming,mappingpiracy
+22-10-2009,NA,46.7207,-3.7547,Attempted,Off Somalia,SOM,NA,594.8170315,42.77027429,-0.129327081,NA,Jolly Rosso,NA,Steaming,mappingpiracy
+22-10-2009,NA,51.5833,-4.15,Hijacked,Off Somalia,SYC,SYC,239.6776404,53.33399499,-5.420179946,NA,Al Khaliq,NA,Steaming,mappingpiracy
+23-10-2009,NA,47.7576,-5.6861,Hijacked,"Enroute to Tanzania from Seychelles, Off Somalia",SYC,NA,428.9270313,46.44776452,-9.337660415,NA,Lynn Rival,NA,Steaming,mappingpiracy
+24-10-2009,NA,106.88,20.6417,Boarding,"Haiphong Anchorage, Vietnam",VNM,VNM,8.680550134,106.8059188,20.67755768,NA,Ellen S,NA,Anchored,mappingpiracy
+25-10-2009,NA,45.1667,-6.1283,Attempted,Off Somalia,SYC,NA,375.5924691,46.27800541,-9.338474217,NA,CMA CGM Maasai,NA,Steaming,mappingpiracy
+26-10-2009,NA,-80.0667,-2.5,Boarding,"Guayaquil Anchorage, Ecuador",ECU,ECU,4.614530142,-80.03433183,-2.473890883,NA,Madeleine,NA,Steaming,mappingpiracy
+26-10-2009,NA,-14.7217,9.4233,Boarding,"Ile Blanche Anchorage, Guinea",GIN,GIN,92.36763028,-14.45254473,10.21458568,NA,Vega Star,NA,Anchored,mappingpiracy
+27-10-2009,NA,50.6833,1.4167,Attempted,Off Somalia,SOM,NA,451.3904768,47.48926843,3.936346747,NA,Cap Saint Vincent,NA,Steaming,mappingpiracy
+29-10-2009,NA,56.8833,-1.9167,Hijacked,Off Somalia,SYC,SYC,247.9238093,55.65967858,-3.791110935,NA,Thai Union 3,NA,Steaming,mappingpiracy
+30-10-2009,NA,3.55,6.1667,Boarding,"Lagos Anchorage, Nigeria",NGA,NGA,29.40358063,3.443614129,6.41034577,NA,Mykines,NA,Steaming,mappingpiracy
+30-10-2009,NA,3.4613,6.136,Boarding,"20NM Off Lagos, Nigeria",NGA,NGA,30.16083426,3.384532097,6.397691148,NA,Silvretta,NA,Steaming,mappingpiracy
+31-10-2009,NA,49.7,13.4333,Attempted,Gulf of Aden,YEM,YEM,122.4141668,48.85254968,14.16697826,NA,Alcyon,NA,Steaming,mappingpiracy
+02-11-2009,NA,47.715,-7.8783,Attempted,"Around 600NM SSE of Mogadishu, Somalia",SYC,SYC,202.0908674,47.51295007,-9.694431248,NA,Jo Cedar,NA,Steaming,mappingpiracy
+02-11-2009,NA,45.6683,-3.5717,Attempted,"335NM South of Mogadishu, Somalia",SOM,NA,493.9497395,42.47282962,-0.469903253,NA,Harriette,NA,Steaming,mappingpiracy
+05-11-2009,NA,51.935,13.7133,Attempted,Gulf of Aden,YEM,YEM,163.7086009,52.09408613,12.24176667,NA,BBC Thames,NA,Steaming,mappingpiracy
+05-11-2009,NA,45.0913,-9.6785,Hijacked,"Around 690NM South of Mogadishu, Somalia",SYC,SYC,126.7483749,46.20736738,-9.385511977,NA,Delvina,NA,Steaming,mappingpiracy
+05-11-2009,NA,105.94,-6.01,Boarding,"Ciwadan Anchorage, Indonesia",IDN,IDN,2.262328714,105.9570419,-5.998711847,NA,Tequila Sunrise,NA,Anchored,mappingpiracy
+05-11-2009,NA,49.235,13.17,Attempted,Gulf of Aden,YEM,YEM,112.8568291,48.70183353,14.04669831,NA,Theoforos I,NA,Steaming,mappingpiracy
+06-11-2009,NA,80.3583,13.0817,Attempted,"Chennai Anchorage, India",IND,IND,5.518780893,80.31373132,13.10578034,NA,Norna N,NA,Anchored,mappingpiracy
+07-11-2009,NA,47.1933,12.622,Attempted,Gulf of Aden,YEM,YEM,102.6402854,46.82422936,13.47630443,NA,Sea Diamond,NA,Steaming,mappingpiracy
+09-11-2009,NA,61.5833,-1.15,Attempted,"Around 990NM East of Mogadishu, Somalia",SYC,NA,720.5814719,55.65967858,-3.791110935,NA,BW Lion,NA,Steaming,mappingpiracy
+10-11-2009,NA,62.9633,-0.7283,Attempted,"Around 1000NM East of Mogadishu, Somalia",SYC,NA,878.4951526,55.92478575,-4.337081068,NA,Nele Maersk,NA,Steaming,mappingpiracy
+10-11-2009,NA,48.2333,-6.55,Attempted,"Around 540NM SE of Mogadishu, Somalia",SYC,SYC,356.7081678,47.51295007,-9.694431248,NA,Felicitas Rickmers,NA,Steaming,mappingpiracy
+11-11-2009,NA,62.6667,-0.5833,Hijacked,"Around 1050NM East of Mogadishu, Somalia",SYC,NA,856.2743732,55.65967858,-3.791110935,NA,Filitsa,NA,Steaming,mappingpiracy
+12-11-2009,NA,54.2417,14.6017,Attempted,Gulf of Aden,YEM,YEM,210.6892557,54.11939538,12.70111726,NA,Full Strong,NA,Steaming,mappingpiracy
+12-11-2009,NA,54.24,14.5717,Attempted,Gulf of Aden,YEM,YEM,207.3649701,54.11939538,12.70111726,NA,Fengli 8,NA,Steaming,mappingpiracy
+13-11-2009,NA,-64.6267,10.25,Boarding,"Puerto La Cruz Anchorage, Venezuela",VEN,VEN,0.5574186848,-64.63141842,10.24811433,NA,British Serenity,NA,Anchored,mappingpiracy
+13-11-2009,NA,43.7,-11.4333,Attempted,"Around 810NM South of Mogadishu, Somalia",NA,NA,32.84253019,43.39942468,-11.41838958,NA,Jolly Rosso,NA,Steaming,mappingpiracy
+13-11-2009,NA,47.9667,-0.7,Attempted,"Around 220NM SE of Mogadishu, Somalia",SOM,NA,408.6671461,46.02702884,2.438137111,NA,Golina,NA,Steaming,mappingpiracy
+15-11-2009,NA,3.395,6.2133,Boarding,"Lagos Anchorage, Nigeria",NGA,NGA,20.42425769,3.384532097,6.397691148,NA,Amyntor,NA,Anchored,mappingpiracy
+16-11-2009,NA,46.974,-8.0018,Hijacked,Off Somalia,SYC,SYC,158.6908162,46.44776452,-9.337660415,NA,Theresa VIII,NA,Steaming,mappingpiracy
+16-11-2009,NA,105.4917,3.2067,Boarding,"Off Pulau Mangkai, South China Sea",IDN,IDN,27.25662409,105.6887313,3.059963283,NA,Florinda,NA,Steaming,mappingpiracy
+16-11-2009,NA,47.9167,12.8333,Attempted,Gulf of Aden,YEM,YEM,106.8584172,47.39820397,13.65485261,NA,Lady Juliet,NA,Steaming,mappingpiracy
+18-11-2009,NA,54.5,6.5833,Attempted,"Around 600NM NE of Mogadishu, Somalia",SOM,NA,507.5710552,50.63363692,9.073187567,NA,Maersk Alabama,NA,Steaming,mappingpiracy
+19-11-2009,NA,47.6833,13.6317,Attempted,Gulf of Aden,YEM,YEM,21.66291682,47.5642196,13.78912995,NA,Red Sea Spirit,NA,Steaming,mappingpiracy
+19-11-2009,NA,105.45,3.1617,Boarding,"9NM West of Pulau Mangkai, South China Sea",IDN,IDN,28.82266785,105.6887313,3.059963283,NA,High Energy,NA,Steaming,mappingpiracy
+20-11-2009,NA,62.6667,-1.3333,Attempted,"1200NM East Coast of Somalia, Somalia",SYC,NA,819.8074,55.92478575,-4.337081068,NA,Aspendos,NA,Steaming,mappingpiracy
+20-11-2009,NA,62.4167,-1.4167,Attempted,"Around 1020NM East of Mogadishu, Somalia",SYC,NA,790.6470311,55.92478575,-4.337081068,NA,Margarita,NA,Steaming,mappingpiracy
+20-11-2009,NA,7,4.7667,Boarding,"Port Harcourt, Nigeria",NGA,NGA,5.426577299,7.003591342,4.717759507,NA,Glory I,NA,Berthed,mappingpiracy
+21-11-2009,NA,117.9883,-1.3567,Boarding,"Balikpapan Outer Anchorage, Indonesia",IDN,IDN,75.50268263,117.622732,-0.781508071,NA,Gulf Jumeirah,NA,Anchored,mappingpiracy
+24-11-2009,NA,108.5167,-6.2167,Attempted,"Balongan Anchorage, Indonesia",IDN,IDN,17.6204367,108.3602691,-6.246400945,NA,LR2 Poseidon,NA,Anchored,mappingpiracy
+24-11-2009,NA,63.2083,0.4883,Attempted,"Around 1100NM East of Mogadishu, Somalia",SYC,NA,963.9117198,55.65967858,-3.791110935,NA,Smiti,NA,Steaming,mappingpiracy
+24-11-2009,NA,2.6767,6.135,Boarding,"O18.5NM Off Cotonou, Benin",BEN,BEN,25.96882651,2.703298373,6.368312893,NA,Cancale Star,NA,Anchored,mappingpiracy
+25-11-2009,NA,-77.2,-12.0167,Boarding,"Callao Anchorage No.1, Peru",PER,PER,5.451632838,-77.16649329,-12.05331797,NA,Gundulic,NA,Anchored,mappingpiracy
+26-11-2009,NA,43.7667,-5.8833,Attempted,"Around 470NM SxW Of Mogadishu, Somalia",TZA,NA,438.8671579,39.85596764,-5.253024998,NA,Delmas Nacala,NA,Steaming,mappingpiracy
+28-11-2009,NA,132,-3.7,Attempted,"East of Seram Islands, Indonesia",IDN,IDN,70.88674576,131.4160262,-3.958591404,NA,Spar Cetus,NA,Steaming,mappingpiracy
+29-11-2009,NA,61.505,3.1565,Hijacked,"Around 970NM ExN of Mogadishu, Somalia",SYC,NA,1006.512457,55.65967858,-3.791110935,NA,Maran Centaurus,NA,Steaming,mappingpiracy
+01-12-2009,NA,-72.3833,18.55,Boarding,"Port Au Prince Anchorage, Haiti",HTI,HTI,1.975890855,-72.40176348,18.5529239,NA,Marina 1,NA,Anchored,mappingpiracy
+01-12-2009,NA,63.5333,12.1667,Attempted,"1200NM from Mogadishu, Somalia",IND,NA,954.0177109,72.17261804,10.82998282,NA,Sikinos,NA,Steaming,mappingpiracy
+02-12-2009,NA,54.3033,14.44,Attempted,Gulf of Aden,YEM,YEM,193.4090213,54.11939538,12.70111726,NA,BBC Togo,NA,Steaming,mappingpiracy
+05-12-2009,NA,91.7733,22.21,Boarding,"Chittagong Anchorage 'B', Bangladesh",BGD,BGD,3.40639394,91.78711999,22.2379418,NA,Tropical Star,NA,Anchored,mappingpiracy
+06-12-2009,NA,60,10.8333,Hijacked,Off Somalia,YEM,NA,624.7771453,54.54029382,12.55023835,NA,Shahzaib,NA,Steaming,mappingpiracy
+07-12-2009,NA,61.65,0.45,Attempted,Off Somalia,SYC,NA,814.8768588,55.65967858,-3.791110935,NA,Coral Globe,NA,Steaming,mappingpiracy
+07-12-2009,NA,48.1167,12.9,Attempted,Gulf of Aden,YEM,YEM,113.3531187,47.43604577,13.67804597,NA,Nordic Sprite,NA,Steaming,mappingpiracy
+08-12-2009,NA,108.4715,-6.227,Boarding,"Balongan Anchorage, Indonesia",IDN,IDN,12.49495232,108.3602691,-6.246400945,NA,Wafrah,NA,Anchored,mappingpiracy
+11-12-2009,NA,123.4183,-5.265,Attempted,Indonesia,IDN,IDN,11.35449064,123.5198674,-5.251722915,NA,Gallant Pescadores,NA,Steaming,mappingpiracy
+14-12-2009,NA,-77.1933,-12.0333,Boarding,"Callao Anchorage No. 1, Peru",PER,PER,3.663803685,-77.16649329,-12.05331797,NA,Cap Castillo,NA,Anchored,mappingpiracy
+15-12-2009,NA,0.0483,5.6467,Boarding,"Tema Roads, Ghana",GHA,GHA,0.335459319,0.050629102,5.64476146,NA,Connorth,NA,Anchored,mappingpiracy
+15-12-2009,NA,-64.6267,10.25,Attempted,"Puerto La Cruz Anchorage, Venezuela",VEN,VEN,0.5574186848,-64.63141842,10.24811433,NA,Zim Sao Paulo II,NA,Anchored,mappingpiracy
+16-12-2009,NA,-77.1667,-12.5,Boarding,"Callao Anchorage No. 1, Peru",PER,PER,34.41965362,-77.0172013,-12.22576263,NA,Swan Ace,NA,Anchored,mappingpiracy
+16-12-2009,NA,42.6185,-2.7617,Hijacked,Off Somalia,KEN,KEN,167.5256066,41.41765384,-1.847263279,NA,Nafeya,NA,Steaming,mappingpiracy
+17-12-2009,NA,76.0333,9.95,Boarding,"Kochi Anchorage, India",IND,IND,21.51890642,76.21461022,10.02448151,NA,Havildar Abdul Hamid PVC,NA,Anchored,mappingpiracy
+18-12-2009,NA,-14.8217,9.2967,Attempted,"60NM Off Conackry, Guinea",GIN,GIN,109.3051252,-14.45254473,10.21458568,NA,NS Stream,NA,Steaming,mappingpiracy
+18-12-2009,NA,47.9223,12.5331,Hijacked,Gulf of Aden,YEM,YEM,136.495946,47.39820397,13.65485261,NA,Almahmoud 2,NA,Steaming,mappingpiracy
+19-12-2009,NA,91.73,22.175,Boarding,"Chittagong Anchorage 'B', Bangladesh",BGD,BGD,8.580209658,91.81299889,22.18032461,NA,X-Press Dhaulagiri,NA,Steaming,mappingpiracy
+20-12-2009,NA,104.1933,1.305,Boarding,"2NM South of Tanjung Ayam, Singapore Straits",MYS,MYS,5.234951498,104.1740829,1.348211981,NA,Tempest,NA,Anchored,mappingpiracy
+22-12-2009,NA,98.7767,3.925,Boarding,"Belawan Outer Anchorage, Indonesia",IDN,IDN,10.1122049,98.7002688,3.875304345,NA,MSC Calcutta,NA,Anchored,mappingpiracy
+25-12-2009,NA,3.3767,6.45,Boarding,"Lagos Anchorage, Nigeria",NGA,NGA,0.745848921,3.37387129,6.456122137,NA,Name Withheld,NA,Anchored,mappingpiracy
+27-12-2009,NA,61.0167,8.4667,Attempted,650NM East of Somalia,YEM,NA,840.4533969,54.54029382,12.55023835,NA,Maersk Warsaw,NA,Steaming,mappingpiracy
+28-12-2009,NA,103.6417,1.0783,Attempted,"Philip Channel, Singapore Straits",IDN,IDN,23.25924607,103.4431258,1.012762762,NA,Gulf Coral,NA,Steaming,mappingpiracy
+28-12-2009,NA,59.7333,-3.3667,Hijacked,Off Somalia,SYC,NA,436.4028846,55.92478575,-4.337081068,NA,Navios Apollon,NA,Steaming,mappingpiracy
+28-12-2009,NA,3.4333,6.3417,Boarding,"Lagos Anchorage, Nigeria",NGA,NGA,7.676680825,3.443614129,6.41034577,NA,Nikolis,NA,Anchored,mappingpiracy
+28-12-2009,NA,48.5667,12.9667,Hijacked,Gulf of Aden,YEM,YEM,113.5933014,48.46876061,13.98895905,NA,St James Park,NA,Steaming,mappingpiracy
+29-12-2009,NA,3.3678,6.2955,Boarding,"Lagos Anchorage, Nigeria",NGA,NGA,11.45172616,3.384532097,6.397691148,NA,Anna Maria A,NA,Anchored,mappingpiracy
+30-12-2009,NA,113.6967,22.69,Boarding,"Nansha Anchorage, China",CHN,CHN,6.422244792,113.6845809,22.74689362,NA,Gulf Elan,NA,Anchored,mappingpiracy
+30-12-2009,NA,63,11.55,Attempted,"500NM East of Socotra, Somalia",YEM,NA,927.6865292,54.54029382,12.55023835,NA,Album,NA,Steaming,mappingpiracy

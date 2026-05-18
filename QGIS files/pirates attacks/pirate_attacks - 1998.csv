@@ -1,0 +1,187 @@
+date,time,longitude,latitude,attack_type,location_description,nearest_country,eez_country,shore_distance,shore_longitude,shore_latitude,attack_description,vessel_name,vessel_type,vessel_status,data_source
+05-01-1998,NA,-80.0867,-2.52,Boarded,"Guayaquil, Ecuador",ECU,ECU,4.446084967,-80.05553138,-2.545179946,NA,Torbon Maersk,NA,Anchored,mappingpiracy
+08-01-1998,NA,107.7167,-3.7833333,Attempted,"Gelasa Straits, Indonesia",IDN,IDN,60.7295965,107.631399,-3.240863766,NA,China Joy,NA,Steaming,mappingpiracy
+08-01-1998,NA,105.3067,-5.4561667,Attempted,"Panjang, Indonesia",IDN,IDN,1.174827798,105.3107202,-5.465997003,NA,Lissom,NA,NA,mappingpiracy
+09-01-1998,NA,-46.305,-24.637,Boarded,"Santos, Brazil",BRA,BRA,67.33122822,-46.59341387,-24.08953216,NA,Isomeria,NA,Anchored,mappingpiracy
+11-01-1998,NA,104.4,2.0833333,Boarded,"Pulau Aur, Malaysia",MYS,MYS,34.07831081,104.1128036,1.976141669,NA,Tioman I,NA,NA,mappingpiracy
+19-01-1998,NA,78.1868,8.755,Attempted,"Tuticorin, India",IND,IND,1.112965559,78.18653405,8.744940497,NA,Maersk Shetland,NA,Anchored,mappingpiracy
+21-01-1998,NA,105.991,-5.9683333,Boarded,"Tanjung Geram, Indonesia",IDN,IDN,2.260472949,105.9773055,-5.983493748,NA,Petrobulk Racer,NA,NA,mappingpiracy
+21-01-1998,NA,121.774,12.8797,Boarded,"Tingutan Island, Philippines",PHL,PHL,6.216267808,121.7221786,12.9036319,NA,NA,NA,NA,mappingpiracy
+24-01-1998,NA,-80.1667,25.76666667,Boarded,"Miami River, USA",USA,USA,3.26583428,-80.13556881,25.77529532,NA,NSS Shandeline,NA,Berthed,mappingpiracy
+27-01-1998,NA,105.9535,-6.0081667,Boarded,"Cigading, Indonesia",IDN,IDN,1.1166917,105.9570419,-5.998711847,NA,Meridian Spica,NA,NA,mappingpiracy
+27-01-1998,NA,70.2203,23.0243333,Boarded,"Kandia Road, India",IND,IND,2.981710221,70.23308353,23.00014883,NA,Jo Clipper,NA,Anchored,mappingpiracy
+28-01-1998,NA,-13.7093,9.5098333,Boarded,"Conakry, Guinea",GIN,GIN,0.3521903491,-13.70710202,9.512152411,NA,Fu Yang Shan,NA,Anchored,mappingpiracy
+31-01-1998,NA,48.4136,4.9115,Hijacked,Somalia,SOM,SOM,20.83466191,48.32886804,5.079657294,NA,Alfa BG,NA,Steaming,mappingpiracy
+31-01-1998,NA,39.645,-4.0483333,Boarded,"Mombasa, Kenya",KEN,KEN,2.417621437,39.65007572,-4.069594008,NA,NA,NA,Anchored,mappingpiracy
+02-02-1998,NA,121.3333,-6.2333333,Attempted,Indonesia,IDN,IDN,87.43193168,120.5529891,-6.110121352,NA,Paris Junior,NA,NA,mappingpiracy
+03-02-1998,NA,120.2,17.9666667,Attempted,Philippines,PHL,PHL,24.77091885,120.4279077,17.91665274,NA,Aspidoforos,NA,Steaming,mappingpiracy
+08-02-1998,NA,74.807,12.9228333,Boarded,"New Mangalore, India",IND,IND,6.852764113,74.81755619,12.86176179,NA,Atoyac,NA,Anchored,mappingpiracy
+09-02-1998,NA,119.385,15.8283333,Attempted,Philippines,PHL,PHL,41.74883211,119.75587,15.94456615,NA,Puteri Zamrud,NA,NA,mappingpiracy
+09-02-1998,NA,9.4367,0.405,Boarded,"Liberville, Gabon",GAB,GAB,5.583536222,9.459320509,0.359930731,NA,Socol I,NA,Anchored,mappingpiracy
+09-02-1998,NA,120.05,17.3566667,Attempted,Philippines,PHL,PHL,36.88705295,120.3408309,17.53876374,NA,RORO Sarawak,NA,Steaming,mappingpiracy
+10-02-1998,NA,91.8267,22.2383333,Boarded,"Chittagong, Bangladesh",BGD,BGD,0.8313376995,91.83472741,22.23761628,NA,Ras Al Zour,NA,Anchored,mappingpiracy
+15-02-1998,NA,91.3167,21.6,Attempted,"Chittagong, Bangladesh",BGD,BGD,54.82668812,91.82398522,21.74262116,NA,Gretke Oldendorff,NA,Anchored,mappingpiracy
+15-02-1998,NA,39.645,-4.0483333,Boarded,"Mombasa, Kenya",KEN,KEN,2.417621437,39.65007572,-4.069594008,NA,NA,NA,NA,mappingpiracy
+16-02-1998,NA,120.6983,14.4466667,Attempted,"Manila Bay, Philippines",PHL,PHL,12.06162109,120.5883895,14.4669864,NA,Martravelier,NA,Steaming,mappingpiracy
+16-02-1998,NA,123.4385,6.8014,Boarded,"Moro Gulf, Philippines",PHL,PHL,58.29610305,123.9655054,6.821275132,NA,NA,NA,Berthed,mappingpiracy
+20-02-1998,NA,123.4385,6.8014,Boarded,"Moro Gulf, Philippines",PHL,PHL,58.29610305,123.9655054,6.821275132,NA,NA,NA,NA,mappingpiracy
+22-02-1998,NA,119.6124,26.054,Hijacked,"Fujan Coast, China",CHN,CHN,1.382803343,119.6203719,26.06419505,NA,NA,NA,Steaming,mappingpiracy
+28-02-1998,NA,48.4136,4.9115,Hijacked,Somalia,SOM,SOM,20.83466191,48.32886804,5.079657294,NA,Natasha I,NA,Steaming,mappingpiracy
+03-03-1998,NA,106.8867,-6.0338333,Boarded,"Jakarta, Indonesia",IDN,IDN,9.348946503,106.8377385,-6.102715753,NA,Xin Hua No.8,NA,Anchored,mappingpiracy
+04-03-1998,NA,116.0723,5.9858333,Boarded,"Kota Kinabalu, Malaysia",MYS,MYS,6.137166188,116.0664169,5.930650132,NA,Pernas Propane,NA,Anchored,mappingpiracy
+07-03-1998,NA,147.6,-2.4,Boarded,Papau New Guinea,PNG,PNG,16.6371882,147.7304794,-2.326429946,NA,Little Swan,NA,Steaming,mappingpiracy
+09-03-1998,NA,91.8267,22.2383333,Boarded,"Chittagong, Bangladesh",BGD,BGD,0.8313376995,91.83472741,22.23761628,NA,Jan No.51,NA,Anchored,mappingpiracy
+11-03-1998,NA,112.7235,-7.2038333,Boarded,"Surabaya Inner Harbour, Indonesia",IDN,IDN,1.955988514,112.7295028,-7.220472915,NA,Bali Sea,NA,Anchored,mappingpiracy
+12-03-1998,NA,39.2765,-6.8265,Boarded,"Dar Es Salaam, Tanzania",TZA,TZA,0.6087118768,39.28028405,-6.830498956,NA,Jan No.35,NA,Anchored,mappingpiracy
+12-03-1998,NA,108.5796,-6.7197,Boarded,"Off Cirebon, Indonesia",IDN,IDN,5.450658794,108.6054794,-6.7616513,NA,Nam Dhien,NA,NA,mappingpiracy
+16-03-1998,NA,-51.0422,0.026,Boarded,"Macapa, Brazil",BRA,BRA,5.732528005,-51.01740475,0.071437893,NA,Industrial Explorer,NA,Anchored,mappingpiracy
+18-03-1998,NA,-80.0867,-2.52,Boarded,"Guayaquil, Ecuador",ECU,ECU,4.446084967,-80.05553138,-2.545179946,NA,NA,NA,NA,mappingpiracy
+19-03-1998,NA,120.9428,14.5211667,Attempted,"Manila, Philippines",PHL,PHL,3.658996985,120.9703882,14.50189851,NA,OOCL Alliance,NA,Steaming,mappingpiracy
+22-03-1998,NA,7.098,4.6719,Boarded,"Dawes Island, Nigeria",NGA,NGA,1.115744408,7.097911004,4.661810614,NA,Sanmar Pageant,NA,Anchored,mappingpiracy
+22-03-1998,NA,48.4136,4.9115,Fired Upon,Somalian Waters,SOM,SOM,20.83466191,48.32886804,5.079657294,NA,Dhow Al Waleed,NA,Steaming,mappingpiracy
+26-03-1998,NA,106.8867,-6.0338333,Boarded,"Jakarta, Indonesia",IDN,IDN,9.348946503,106.8377385,-6.102715753,NA,Zhen No.14,NA,Anchored,mappingpiracy
+28-03-1998,NA,-80.0867,-2.52,Boarded,"Guayaquil, Ecuador",ECU,ECU,4.446084967,-80.05553138,-2.545179946,NA,Thorkil Maersk,NA,Anchored,mappingpiracy
+29-03-1998,NA,-80.0867,-2.52,Boarded,"Guayaquil, Ecuador",ECU,ECU,4.446084967,-80.05553138,-2.545179946,NA,Paraskevi II,NA,Anchored,mappingpiracy
+31-03-1998,NA,39.645,-4.0483333,Boarded,"Mombasa, Kenya",KEN,KEN,2.417621437,39.65007572,-4.069594008,NA,NA,NA,Anchored,mappingpiracy
+01-04-1998,NA,29.2204,31.24,Boarded,25nm Egypt,EGY,EGY,40.36267139,29.3557235,30.89508698,NA,Nemesis,NA,Steaming,mappingpiracy
+02-04-1998,NA,9.4367,0.405,Boarded,"Liberville, Gabon",GAB,GAB,5.583536222,9.459320509,0.359930731,NA,Ocean Challenger,NA,Anchored,mappingpiracy
+02-04-1998,NA,70.2203,23.0243333,Boarded,"Kandia Port, India",IND,IND,2.981710221,70.23308353,23.00014883,NA,Sanmar Symphony,NA,Anchored,mappingpiracy
+03-04-1998,NA,-43.1913,-22.8765,Boarded,"Rio de Janeiro, Brazil",BRA,BRA,2.178646678,-43.17332923,-22.88697682,NA,Igloo Moon,NA,Anchored,mappingpiracy
+04-04-1998,NA,125.6537,7.105,Hijacked,"Near Sasa Port, Saragani Bay, Philippines (Coded as Davao Port, which includes Sasa Wharf)",PHL,PHL,0.8898214619,125.6461695,7.107855536,NA,Virgin Pearl,NA,Steaming,mappingpiracy
+05-04-1998,NA,125.3667,4.9666667,Attempted,Philippines,PHL,IDN,44.29054889,125.3637801,5.36717357,NA,Shun Kim,NA,Steaming,mappingpiracy
+06-04-1998,NA,105.9922,-5.9531667,Boarded,"Cilegon Merak, Indonesia",IDN,IDN,3.737279898,105.9773055,-5.983493748,NA,Multitank Calabria,NA,Anchored,mappingpiracy
+14-04-1998,NA,-80.0867,-2.52,Attempted,"Guayaquil, Ecuador",ECU,ECU,4.446084967,-80.05553138,-2.545179946,NA,Simone J,NA,Anchored,mappingpiracy
+15-04-1998,NA,51.15,12.085,Attempted,Somalian Waters,SOM,SOM,22.95596275,51.12769616,11.87864818,NA,Silver Star,NA,Steaming,mappingpiracy
+16-04-1998,NA,104.8333,2,Attempted,Indonesia,MYS,MYS,74.32496556,104.222911,1.726874091,NA,Northwest Sanderling,NA,Steaming,mappingpiracy
+17-04-1998,NA,105.35,3.8166667,Hijacked,SCS,IDN,IDN,91.75100597,105.6887313,3.059963283,NA,Petro Ranger,NA,Steaming,mappingpiracy
+20-04-1998,NA,105.9193,-6.0418333,Boarded,"Anyer Anchorage, Indonesia",IDN,IDN,4.712374625,105.8878687,-6.070570571,NA,Swift Tiger,NA,Anchored,mappingpiracy
+22-04-1998,NA,-17.4247,14.676,Boarded,"Dakar, Senegal",SEN,SEN,0.2610339344,-17.42682858,14.67487214,NA,Arcadia,NA,Steaming,mappingpiracy
+24-04-1998,NA,-52.0757,-32.0536667,Boarded,"Rio Grande, Brazil",BRA,BRA,1.852696888,-52.08145098,-32.03769297,NA,Bretagene,NA,Anchored,mappingpiracy
+24-04-1998,NA,94.5833,6.4333333,Attempted,"Off Rondo Island, Indian Ocean",NA,IDN,85.89186224,93.90308679,6.808294989,NA,Tiger Wave,NA,Steaming,mappingpiracy
+24-04-1998,NA,91.8267,22.2383333,Boarded,"Chittagong, Bangladesh",BGD,BGD,0.8313376995,91.83472741,22.23761628,NA,Waid Al Agouz,NA,Anchored,mappingpiracy
+26-04-1998,NA,1.0583,49.4385,Boarded,"Rouen, France",FRA,FRA,41.41974976,0.493174675,49.49359772,NA,Hellen C,NA,Berthed,mappingpiracy
+26-04-1998,NA,-80.0867,-2.52,Boarded,"Guayaquil, Ecuador",ECU,ECU,4.446084967,-80.05553138,-2.545179946,NA,CSAV Rio de la Plata,NA,Anchored,mappingpiracy
+28-04-1998,NA,106.8867,-6.0338333,Boarded,"Jakarta Anchorage, Indonesia",IDN,IDN,9.348946503,106.8377385,-6.102715753,NA,Kwangtung,NA,Anchored,mappingpiracy
+28-04-1998,NA,122.5667,6.7166667,Attempted,"Near Sibago Island, Philippines",PHL,PHL,28.49957159,122.3352157,6.603338934,NA,Aqua Stoli,NA,Steaming,mappingpiracy
+30-04-1998,NA,39.645,-4.0483333,Boarded,"Mombasa, Kenya",KEN,KEN,2.417621437,39.65007572,-4.069594008,NA,Yin Chuan,NA,Anchored,mappingpiracy
+30-04-1998,NA,112.6667,-7.1383333,Boarded,Indonesia,IDN,IDN,0.9227383393,112.6583765,-7.137627863,NA,Calatagan,NA,Anchored,mappingpiracy
+30-04-1998,NA,102.4025,2.0393,Hijacked,"10nm off Muar, Malacca Straits",MYS,MYS,11.30528149,102.4890243,2.092922268,NA,NA,NA,Steaming,mappingpiracy
+05-05-1998,NA,-51.09,0.0616667,Boarded,"Fazendinha, Brazil",BRA,BRA,8.153166831,-51.01740475,0.071437893,NA,Auk Arrow,NA,Anchored,mappingpiracy
+05-05-1998,NA,39.645,-4.0483333,Boarded,"Mombasa, Kenya",KEN,KEN,2.417621437,39.65007572,-4.069594008,NA,Yin Chuan,NA,Anchored,mappingpiracy
+06-05-1998,NA,48,12.1333333,Attempted,Somalia,SOM,SOM,101.9910233,48.34278405,11.27545808,NA,Leros Star,NA,Steaming,mappingpiracy
+07-05-1998,NA,125.5833,-4.3166667,Attempted,Indonesia,IDN,IDN,102.3979411,126.2030208,-3.630993788,NA,Orchid River,NA,Steaming,mappingpiracy
+08-05-1998,NA,32.55,29.8166667,Boarded,"Suez Canal, Egypt (Coded as Port of Suez)",EGY,EGY,5.333366015,32.6045028,29.82416413,NA,Ba Da Ling,NA,Anchored,mappingpiracy
+08-05-1998,NA,106.8867,-6.0338333,Boarded,"Jakarta, Indonesia",IDN,IDN,9.348946503,106.8377385,-6.102715753,NA,Brigitte,NA,Anchored,mappingpiracy
+09-05-1998,NA,70.2203,23.0243333,Boarded,"Kandia, India",IND,IND,2.981710221,70.23308353,23.00014883,NA,Maribel,NA,Berthed,mappingpiracy
+09-05-1998,NA,74.807,12.9228333,Boarded,"New Mangalore, India",IND,IND,6.852764113,74.81755619,12.86176179,NA,World Sky,NA,Anchored,mappingpiracy
+10-05-1998,NA,97.08,8.9083333,Boarded,Thailand,THA,THA,99.93355514,97.84001712,9.404282945,NA,Algirdas,NA,Steaming,mappingpiracy
+11-05-1998,NA,118.11,4.1566667,Boarded,"Sandakan, Malaysia",MYS,MYS,14.3436723,118.0045679,4.231634833,NA,Shafinaz Ria,NA,Anchored,mappingpiracy
+11-05-1998,NA,112.0667,7.1733333,Boarded,"Surabaya, Indonesia",MYS,BRN,354.9696136,113.9758407,4.594712632,NA,Star Trondanger,NA,Anchored,mappingpiracy
+13-05-1998,NA,-77.1617,3.6566667,Boarded,"Buenaventura, Colombia",COL,COL,0.08095814426,-77.16185462,3.655951239,NA,NA,NA,Berthed,mappingpiracy
+16-05-1998,NA,-74.7583,10.9583333,Boarded,"Barranquilla, Colombia",COL,COL,12.75298674,-74.74317375,11.07265253,NA,Renate Schulte,NA,Berthed,mappingpiracy
+19-05-1998,NA,100.7333,12.8,Boarded,Thailand,THA,THA,14.21316004,100.8548283,12.75226472,NA,Nickolas,NA,Anchored,mappingpiracy
+20-05-1998,NA,70.4417,22.9551667,Boarded,"Naviakhi, India",IND,IND,0.4972857255,70.43685957,22.95490143,NA,NA,NA,Anchored,mappingpiracy
+23-05-1998,NA,125.6537,7.105,Boarded,"Davao, Philippines",PHL,PHL,0.8898214619,125.6461695,7.107855536,NA,Eagle Venus,NA,NA,mappingpiracy
+31-05-1998,NA,104.61,-5.5816667,Boarded,"Teluk Semangka, Indonesia",IDN,IDN,8.843822777,104.5332137,-5.559828383,NA,Chesapeake City,NA,Anchored,mappingpiracy
+01-06-1998,NA,106.8867,-6.0338333,Boarded,"Jakarta, Indonesia",IDN,IDN,9.348946503,106.8377385,-6.102715753,NA,Ping Shan,NA,Anchored,mappingpiracy
+02-06-1998,NA,50.9333,12.0666667,Attempted,Somalia,SOM,SOM,15.39184535,50.97008259,11.93232251,NA,Rejane Delmas,NA,Steaming,mappingpiracy
+04-06-1998,NA,118.0555,5.815,Boarded,"Sandakan, Malaysia",MYS,MYS,0.7614011037,118.0588485,5.808986721,NA,Sunny Diamond,NA,Berthed,mappingpiracy
+05-06-1998,NA,91.8267,22.2383333,Boarded,"Chittagong, Bangladesh",BGD,BGD,0.8313376995,91.83472741,22.23761628,NA,Arthur Stove,NA,Anchored,mappingpiracy
+08-06-1998,NA,39.2765,-6.8265,Boarded,"Dar Es Salaam, Tanzania",TZA,TZA,0.6087118768,39.28028405,-6.830498956,NA,MSC Sarah,NA,Berthed,mappingpiracy
+08-06-1998,NA,-74.7583,10.9583333,Boarded,"Barranquilla, Colombia",COL,COL,12.75298674,-74.74317375,11.07265253,NA,NA,NA,Steaming,mappingpiracy
+13-06-1998,NA,-74.7583,10.9583333,Boarded,"Barranquilla, Colombia",COL,COL,12.75298674,-74.74317375,11.07265253,NA,Spar Emerald,NA,Berthed,mappingpiracy
+17-06-1998,NA,-43.1913,-22.8765,Boarded,"Rio de Janeiro, Brazil",BRA,BRA,2.178646678,-43.17332923,-22.88697682,NA,Zadar,NA,Berthed,mappingpiracy
+19-06-1998,NA,91.8267,22.2383333,Boarded,"Chittagong, Bangladesh",BGD,BGD,0.8313376995,91.83472741,22.23761628,NA,Britoil 4,NA,Anchored,mappingpiracy
+23-06-1998,NA,3.4539,37.195,Attempted,Coast of Algeria,DZA,DZA,42.3382843,3.709483269,36.87319571,NA,Laurissa,NA,Steaming,mappingpiracy
+26-06-1998,NA,-64.59,10.2428333,Boarded,"Guanta, Venezuela",VEN,VEN,1.250774046,-64.57990475,10.24811433,NA,Sea Explorer II,NA,Berthed,mappingpiracy
+29-06-1998,NA,39.645,-4.0483333,Boarded,"Mombasa, Kenya",KEN,KEN,2.417621437,39.65007572,-4.069594008,NA,Naval Gent,NA,Berthed,mappingpiracy
+29-06-1998,NA,107.2667,-2.8833333,Boarded,Indonesia,IDN,IDN,8.302269876,107.3412922,-2.886858451,NA,Sea Legend,NA,Steaming,mappingpiracy
+11-07-1998,NA,0.007,5.6258333,Boarded,"Tema, Ghana",GHA,GHA,3.061197502,0.034515821,5.628363348,NA,Chettinad Tradition,NA,Anchored,mappingpiracy
+16-07-1998,NA,15.0905,37.4908333,Boarded,"Cattania, Sicily, Italy",ITA,ITA,0.6789758655,15.0966903,37.49445222,NA,Island Seaway,NA,Berthed,mappingpiracy
+17-07-1998,NA,91.8267,22.2383333,Attempted,"Chittagong, Bangladesh",BGD,BGD,0.8313376995,91.83472741,22.23761628,NA,Arktis Crystal,NA,Berthed,mappingpiracy
+18-07-1998,NA,106.8867,-6.0338333,Boarded,"Jakarta, Indonesia",IDN,IDN,9.348946503,106.8377385,-6.102715753,NA,Express,NA,Anchored,mappingpiracy
+21-07-1998,NA,0.007,5.6258333,Boarded,"Tema Roads, Ghana",GHA,GHA,3.061197502,0.034515821,5.628363348,NA,Aschen,NA,Anchored,mappingpiracy
+25-07-1998,NA,118.0555,5.815,Boarded,"Sandakan, Malaysia",MYS,MYS,0.7614011037,118.0588485,5.808986721,NA,RCL-A,NA,Berthed,mappingpiracy
+03-08-1998,NA,-4.03,5.1933333,Boarded,"Abidjan, Djibouti",CIV,CIV,5.691111947,-3.995757616,5.231675523,NA,Shearer,NA,Anchored,mappingpiracy
+05-08-1998,NA,104.1667,1.1166667,Hijacked,"Batam, Indonesia",IDN,IDN,1.697288047,104.1517033,1.119452216,NA,Fu Tai,NA,Anchored,mappingpiracy
+05-08-1998,NA,-70.03,18.4188333,Boarded,"Rio Haina, Dominican Republic",DOM,DOM,1.640362846,-70.01659095,18.41136302,NA,Nickolas,NA,Anchored,mappingpiracy
+10-08-1998,NA,-17.4247,14.676,Boarded,"Dakar, Senegal",SEN,SEN,0.2610339344,-17.42682858,14.67487214,NA,Jan-Rasmus,NA,Anchored,mappingpiracy
+10-08-1998,NA,-79.8243,17.9756667,Attempted,"Kingston, Jamaica",JAM,JAM,156.7379119,-78.37466387,18.26557038,NA,Moai,NA,Anchored,mappingpiracy
+12-08-1998,NA,9.6667,4.0431667,Boarded,"Douala, Cameroon",CMR,CMR,1.430647464,9.675629102,4.033840236,NA,Britta,NA,Berthed,mappingpiracy
+13-08-1998,NA,9.6667,4.0431667,Boarded,"Douala, Cameroon",CMR,CMR,1.430647464,9.675629102,4.033840236,NA,Britta,NA,Berthed,mappingpiracy
+14-08-1998,NA,91.8267,22.2383333,Boarded,"Chittagong, Bangladesh",BGD,BGD,0.8313376995,91.83472741,22.23761628,NA,Pearl Luck,NA,Anchored,mappingpiracy
+14-08-1998,NA,80.8221,9.2711,Boarded,"Mullaitivu, Sri Lanka",LKA,LKA,0.2092277551,80.82390384,9.270493882,NA,Jan Zizka,NA,Steaming,mappingpiracy
+15-08-1998,NA,-77.205,-12.1283333,Boarded,"Callao, Peru",PER,PER,1.488871853,-77.20439316,-12.11488761,NA,Pactol River,NA,Anchored,mappingpiracy
+19-08-1998,NA,117.5265,-0.1,Attempted,"Santan, Indonesia",IDN,IDN,3.978096129,117.5073348,-0.069634698,NA,British Admiral,NA,Anchored,mappingpiracy
+19-08-1998,NA,103.6667,1.1666667,Attempted,Indonesia,SGP,IDN,15.19789655,103.6652938,1.304103908,NA,Sea Hope,NA,Steaming,mappingpiracy
+21-08-1998,NA,103.4217,1.2216667,Boarded,Indonesia,IDN,IDN,10.71024854,103.3898218,1.130275783,NA,Paola II,NA,NA,mappingpiracy
+23-08-1998,NA,-13.7093,9.5098333,Boarded,"Conakry, Guinea",GIN,GIN,0.3521903491,-13.70710202,9.512152411,NA,Sky Bird,NA,Anchored,mappingpiracy
+24-08-1998,NA,-80.0867,-2.52,Boarded,"Guayaquil, Ecuador",ECU,ECU,4.446084967,-80.05553138,-2.545179946,NA,CSAV Rungue,NA,Anchored,mappingpiracy
+27-08-1998,NA,-43.1913,-22.8765,Boarded,"Rio de Janeiro, Brazil",BRA,BRA,2.178646678,-43.17332923,-22.88697682,NA,Hope,NA,Berthed,mappingpiracy
+06-09-1998,NA,98.62,4.6866667,Attempted,Indonesia,IDN,IDN,47.91534679,98.275564,4.425360419,NA,Pacific Splendor,NA,Steaming,mappingpiracy
+06-09-1998,NA,120.7367,14.51,Attempted,"Balikpapan, Indonesia",PHL,PHL,14.96833412,120.597911,14.5056013,NA,Spyros,NA,Anchored,mappingpiracy
+07-09-1998,NA,9.6667,4.0431667,Boarded,"Douala, Cameroon",CMR,CMR,1.430647464,9.675629102,4.033840236,NA,Benguela Stream,NA,Berthed,mappingpiracy
+08-09-1998,NA,118.83,22.08,Hijacked,South China Sea,TWN,TWN,158.5691477,120.2457788,22.64252351,NA,Louisa,NA,Steaming,mappingpiracy
+09-09-1998,NA,-80.0867,-2.52,Boarded,"Guayaquil, Ecuador",ECU,ECU,4.446084967,-80.05553138,-2.545179946,NA,Maersk Lima,NA,Anchored,mappingpiracy
+09-09-1998,NA,-58.1875,6.6933333,Boarded,"Georgetown, Guyana",GUY,GUY,13.42609074,-58.16966712,6.813421942,NA,Trade Winds,NA,Berthed,mappingpiracy
+13-09-1998,NA,105.325,-5.5166667,Boarded,Indonesia,IDN,IDN,5.822425478,105.3107202,-5.465997003,NA,Mercury Star,NA,Anchored,mappingpiracy
+15-09-1998,NA,0.007,5.6258333,Boarded,"Tema, Ghana",GHA,GHA,3.061197502,0.034515821,5.628363348,NA,Gili,NA,Anchored,mappingpiracy
+15-09-1998,NA,-79.8243,17.9756667,Boarded,"Kingston, Jamaica",JAM,JAM,156.7379119,-78.37466387,18.26557038,NA,Nelvana,NA,Berthed,mappingpiracy
+18-09-1998,NA,89.5858,22.4855,Boarded,"Mongla, Bangladesh",BGD,BGD,17.07600142,89.62647546,22.33600495,NA,OTS Uranus,NA,Anchored,mappingpiracy
+24-09-1998,NA,9.6667,4.0431667,Boarded,"Douala, Cameroon",CMR,CMR,1.430647464,9.675629102,4.033840236,NA,Antwerp Bridge,NA,Berthed,mappingpiracy
+27-09-1998,NA,49.1543,11.3,Hijacked,"Bosaso Port, Somalia",SOM,SOM,5.639620341,49.10840905,11.2765974,NA,Nourstar,NA,Anchored,mappingpiracy
+27-09-1998,NA,119.0108,4.4018,Boarded,"Bohayan Island, Sabah, Malaysia",MYS,MYS,28.87749856,118.7600204,4.471380927,NA,NA,NA,Anchored,mappingpiracy
+27-09-1998,NA,99.4517,3.3695,Hijacked,"Kuala Tanjung, Indonesia",IDN,IDN,0.9715151978,99.45386804,3.360988674,NA,Tenyu,NA,Steaming,mappingpiracy
+29-09-1998,NA,107.4085,-2.9,Boarded,"Island Mendenau, Indonesia",IDN,IDN,3.574832977,107.4279891,-2.9257138,NA,Hanjin Busan,NA,NA,mappingpiracy
+05-10-1998,NA,130.7,-8.95,Attempted,Indonesia,IDN,IDN,66.64112643,130.763357,-8.350762628,NA,Prabhu Yuvika,NA,NA,mappingpiracy
+06-10-1998,NA,70.2203,23.0243333,Boarded,"Kandia Roads, India",IND,IND,2.981710221,70.23308353,23.00014883,NA,Princess Sanee,NA,Anchored,mappingpiracy
+06-10-1998,NA,106.9025,-6.0976667,Boarded,"Tanjung Priok, Jakarta, Indonesia",IDN,IDN,7.190381219,106.8377385,-6.102715753,NA,Alam Gula,NA,Berthed,mappingpiracy
+11-10-1998,NA,104.2861,3.9604,Boarded,"95km off Tanjung Gelang, Malaysia",MYS,MYS,94.19932274,103.4379989,3.975043036,NA,Ong Thong,NA,Steaming,mappingpiracy
+11-10-1998,NA,147.16,-9.47,Boarded,"Ports Morresby, Papau New Guinea",PNG,PNG,2.478419249,147.1451929,-9.486911717,NA,Ma Foroe,NA,Anchored,mappingpiracy
+13-10-1998,NA,106.9025,-6.0976667,Boarded,"Tanjung Priok, Indonesia",IDN,IDN,7.190381219,106.8377385,-6.102715753,NA,Asta Samudra,NA,Anchored,mappingpiracy
+13-10-1998,NA,104.61,-5.5816667,Boarded,"Teluk Semangka, Indonesia",IDN,IDN,8.843822777,104.5332137,-5.559828383,NA,Karimun,NA,Anchored,mappingpiracy
+15-10-1998,NA,-48.519,-25.505,Boarded,"Paranagua, Brazil",BRA,BRA,1.200465776,-48.52403724,-25.51482513,NA,Oceanic Explorer,NA,Berthed,mappingpiracy
+20-10-1998,NA,80.305,13.1066667,Boarded,"Madras, India",IND,IND,0.9518745628,80.31373132,13.10578034,NA,Bunga Mas Empat,NA,Anchored,mappingpiracy
+23-10-1998,NA,117.5265,-0.1,Boarded,"Santan, Indonesia",IDN,IDN,3.978096129,117.5073348,-0.069634698,NA,Bright Express,NA,Anchored,mappingpiracy
+26-10-1998,NA,107.3,-3,Boarded,Indonesia,IDN,IDN,12.89001061,107.3984536,-2.938427948,NA,Chikuma,NA,NA,mappingpiracy
+27-10-1998,NA,107.24,-2.92,Boarded,Indonesia,IDN,IDN,11.84270288,107.3412922,-2.886858451,NA,Thor Marie,NA,NA,mappingpiracy
+29-10-1998,NA,121.0073,13.7418333,Boarded,"Tabangao Batangas City, Philippines",PHL,PHL,3.827580846,121.0162867,13.77529532,NA,British Resolution,NA,Anchored,mappingpiracy
+30-10-1998,NA,115.2017,20.45,Boarded,South China Sea,CHN,TWN,199.7312964,114.3025008,22.04486726,NA,Singapura Timur,NA,Steaming,mappingpiracy
+05-11-1998,NA,120.9428,14.5211667,Attempted,"Luzon, Philippines",PHL,PHL,3.658996985,120.9703882,14.50189851,NA,Chang Ni,NA,Steaming,mappingpiracy
+05-11-1998,NA,118.05,20.1166667,Attempted,South China Sea,PHL,TWN,319.528258,120.5701604,18.50177643,NA,Glory Selatan,NA,Steaming,mappingpiracy
+07-11-1998,NA,19.5863,41.8056667,Boarded,"Shengjin Port, Albania",ALB,ALB,1.298990137,19.59978275,41.79975007,NA,Ermina,NA,Anchored,mappingpiracy
+09-11-1998,NA,-58.1875,6.6933333,Boarded,"Georgetown, Guyana",GUY,GUY,13.42609074,-58.16966712,6.813421942,NA,Rugig,NA,Anchored,mappingpiracy
+10-11-1998,NA,98.1833,4.7333333,Attempted,Indonesia,IDN,IDN,22.44060178,98.00700931,4.633856512,NA,Louisa,NA,Steaming,mappingpiracy
+11-11-1998,NA,143,-1.6,Attempted,Papau New Guinea,PNG,PNG,18.82822268,142.8654891,-1.703301691,NA,Cape America,NA,NA,mappingpiracy
+16-11-1998,NA,118.8167,22.3333333,Hijacked,South China Sea,TWN,TWN,149.6106682,120.0551864,23.04368724,NA,Cheung Son,NA,Steaming,mappingpiracy
+25-11-1998,NA,99.7631,6.2561,Hijacked,"Tepu Island, Langkawi Island, Malaysia",MYS,MYS,2.208497138,99.74894929,6.270182652,NA,Fishing Boat,NA,Anchored,mappingpiracy
+25-11-1998,NA,117.5265,-0.1,Boarded,"Santan, Indonesia",IDN,IDN,3.978096129,117.5073348,-0.069634698,NA,Lady Erika,NA,Anchored,mappingpiracy
+26-11-1998,NA,117.5413,0.5366667,Boarded,"Tanjung Bara, Kalimantan, Indonesia",IDN,IDN,9.599458575,117.6203719,0.502020575,NA,Star Polaris,NA,Anchored,mappingpiracy
+27-11-1998,NA,39.2765,-6.8265,Boarded,"Dar Es Salaam, Tanzania",TZA,TZA,0.6087118768,39.28028405,-6.830498956,NA,Kyushu Spirit,NA,Anchored,mappingpiracy
+29-11-1998,NA,9.6667,4.0431667,Boarded,"Douala, Cameroon",CMR,CMR,1.430647464,9.675629102,4.033840236,NA,Maersk Launcher,NA,Berthed,mappingpiracy
+29-11-1998,NA,123.7833,-8.2,Boarded,Indonesia,IDN,IDN,1.580532888,123.7839462,-8.185723566,NA,Lambert Maru,NA,Steaming,mappingpiracy
+29-11-1998,NA,105.4067,-5.7033333,Boarded,Indonesia,IDN,IDN,9.828805617,105.4835718,-5.658949477,NA,Pernas Amang,NA,Steaming,mappingpiracy
+30-11-1998,NA,117.5413,0.5366667,Hijacked,"Pulau Batam, Indonesia",IDN,IDN,9.599458575,117.6203719,0.502020575,NA,Pulau Mas,NA,Steaming,mappingpiracy
+02-12-1998,NA,117.5265,-0.1,Boarded,"Santan, Indonesia",IDN,IDN,3.978096129,117.5073348,-0.069634698,NA,Brilliance,NA,Anchored,mappingpiracy
+02-12-1998,NA,117.5413,0.5366667,Boarded,"Tanjung Bara, Indonesia",IDN,IDN,9.599458575,117.6203719,0.502020575,NA,Tien Shan,NA,Anchored,mappingpiracy
+06-12-1998,NA,116.0855,1.3166667,Boarded,"Malaysia (Given coordinates specify a forested area on Kalimantan, Indonesia)",IDN,IDN,193.1320714,117.6203719,0.502020575,NA,Pernas Butane,NA,Anchored,mappingpiracy
+10-12-1998,NA,117.75,0.5333333,Boarded,Indonesia,IDN,IDN,9.062101351,117.6748153,0.564764716,NA,Atlas,NA,Anchored,mappingpiracy
+11-12-1998,NA,117.6,0.1666667,Boarded,"Bontang, Indonesia",IDN,IDN,9.663819148,117.5172632,0.140204169,NA,Mundogas,NA,Anchored,mappingpiracy
+13-12-1998,NA,105.289,-5.4791667,Boarded,Indonesia,IDN,IDN,2.813245367,105.3107202,-5.465997003,NA,Bonvoy 8,NA,Anchored,mappingpiracy
+19-12-1998,NA,117.5413,0.5366667,Boarded,"Tanjung Bara, Indonesia",IDN,IDN,9.599458575,117.6203719,0.502020575,NA,Docerio,NA,Anchored,mappingpiracy
+21-12-1998,NA,106.8867,-6.0338333,Boarded,"Jakarta, Indonesia",IDN,IDN,9.348946503,106.8377385,-6.102715753,NA,Leona,NA,Anchored,mappingpiracy
+24-12-1998,NA,115.1836,4.9549,Boarded,"Kuala Trusan Lawas, Malaysia",MYS,MYS,1.758214156,115.1989038,4.950751044,NA,Fishing Boat,NA,Steaming,mappingpiracy
+24-12-1998,NA,106.9025,-6.0976667,Boarded,"Tanjung Priok, Indonesia",IDN,IDN,7.190381219,106.8377385,-6.102715753,NA,Zebu Express,NA,Anchored,mappingpiracy
+26-12-1998,NA,-79.9983,-2.3567,Boarded,"Guayaquil, Ecuador",ECU,ECU,0.3540742048,-79.99990801,-2.353936456,NA,NA,NA,NA,mappingpiracy
+27-12-1998,NA,49.3212,-2.7803,Boarded,"Selat Baur, Indoensia",SYC,NA,532.6443699,53.33399499,-5.420179946,NA,CGM Cizanne,NA,Steaming,mappingpiracy
+28-12-1998,NA,107.3167,-3,Attempted,Indonesia,IDN,IDN,11.35598786,107.3984536,-2.938427948,NA,Patroclus,NA,Steaming,mappingpiracy
+28-12-1998,NA,106.975,-3.0333333,Boarded,Indonesia,IDN,IDN,9.013492355,106.8952743,-3.018487238,NA,Rubin Stella,NA,Steaming,mappingpiracy
+28-12-1998,NA,-43.1913,-22.8765,Boarded,"Rio de Janeiro, Brazil",BRA,BRA,2.178646678,-43.17332923,-22.88697682,NA,Stride,NA,Berthed,mappingpiracy
+28-12-1998,NA,50.0833,12.015,Hijacked,"Alula, Somalia",SOM,SOM,49.57221637,50.37232507,11.66893138,NA,Fishing Boat,NA,Steaming,mappingpiracy
+28-12-1998,NA,-70.03,18.4188333,Boarded,"Rio Haina, Dominican Republic",DOM,DOM,1.640362846,-70.01659095,18.41136302,NA,NA,NA,NA,mappingpiracy
+29-12-1998,NA,103.7167,1.0966667,Boarded,Singapore Straits,IDN,IDN,17.00947881,103.8447372,1.012681382,NA,Abdoun Discovery,NA,Steaming,mappingpiracy
+30-12-1998,NA,117.5265,-0.1,Boarded,"Santan, Indonesia",IDN,IDN,3.978096129,117.5073348,-0.069634698,NA,Nivosa,NA,Anchored,mappingpiracy
+30-12-1998,NA,119.8507,-0.7196667,Boarded,Indonesia,IDN,IDN,0.5160248086,119.8540145,-0.716403904,NA,Khairpur Aqor,NA,Anchored,mappingpiracy
+30-12-1998,NA,106.9667,-3.05,Boarded,Indonesia,IDN,IDN,8.670989437,106.8952743,-3.018487238,NA,Pacific Star,NA,Steaming,mappingpiracy
+30-12-1998,NA,48.4136,4.9115,Hijacked,Somalia,SOM,SOM,20.83466191,48.32886804,5.079657294,NA,Sea Johana,NA,NA,mappingpiracy
+30-12-1998,NA,105.9535,-6.0081667,Boarded,"Cigading, Indonesia",IDN,IDN,1.1166917,105.9570419,-5.998711847,NA,Santa Bahari,NA,Anchored,mappingpiracy
