@@ -71,7 +71,7 @@ with ‘hijacked’ red, ‘boarded’/’boarding’ as light orange, and ‘at
 3. Ucheck any categories except ‘boarded’, ‘boarding’, ‘attempted’, and ‘hijacked’
 4. Repeat this process for all years
 
-### GDP/EEZs
+GDP/EEZs
 1. Load in the EEZ shapefile
 2. Load in the GDP .CSV files for 2006-2011 with no geometry
 3. In the Processing Toolbox, find ‘join attributes by field value’ (Vector General)
