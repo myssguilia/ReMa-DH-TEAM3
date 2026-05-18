@@ -10,7 +10,8 @@ This project aims to build in particular on work done by Daxecker & Prins (2012)
 
 
 ## Data Acquisition
-The original dataset on which we based our adapted dataset is from [Benden et al. (2021)](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.39).
+The dataset by [Benden et al. (2021)](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.39) included piracy attack events, along with their descriptive information. The attacks dataset includes:
+
 
 ### (1) Dataset description
 Object name: Maritime Pirate Attacks Dataset
