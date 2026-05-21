@@ -173,7 +173,7 @@ Then, the GDP and EEZ information was addedGDP/EEZs:
 
 5. Make the resulting layer permanent in the layer overview, save it as GDP [year];
 6. Open the attribute table of the resulting shapefile, sort by GDP so that all the *NULL* values come to the top of the table, then toggle editing, select all the entries with *NULL* values, and save the table. This creates a shapefile that includes only EEZs for countries that we have GDP data for;
-7. Create a graduated fill for GDP with five classes, set to Equal Count (Quantile);
+7. Create a graduated fill for GDP with five classes, set to Equal Count (Quantile) for visual ease of comparing GDPs, so that each category contains a similar amount of observations. Otherwise, the richest countries will force a large amount of (relatively) poorer countries into the same category, making it hard to see differences between countries overall;
 8. Repeat this for all GDP attribute tables to create shapefiles of the EEZs that link our GDP data to the right countries.
 
 
@@ -218,6 +218,36 @@ The post-hoc Dunn test reveals that the only statistically significant pairwise 
 
 <img width="581" height="493" alt="dunn1_visual" src="https://github.com/user-attachments/assets/7e89d568-82b1-4e1f-b2eb-65bc69445f40" />  
 
+## Maps for Period 1 (1998-2003)
+
+### Legend ###
+**GDP per year**  
+Country EEZs in blue: GDP (darker means higher)  
+Country EEZs in hashed grey: no GDP data  
+
+**Attacks per year**  
+Red diamond: hijacked  
+Yellow/orange diamond: boarded  
+Light green diamond: attempted  
+
+**1998**
+<img width="860" height="439" alt="1998" src="https://github.com/user-attachments/assets/38d5b545-f833-41a2-97bd-d5c439a8f91a" />
+
+**1999**
+<img width="860" height="436" alt="1999" src="https://github.com/user-attachments/assets/16504206-5ef3-48e6-a607-e70052f0eed7" />
+
+**2000**
+<img width="860" height="440" alt="2000" src="https://github.com/user-attachments/assets/130fee98-434b-4482-b1ee-313821db271c" />
+
+**2001**
+<img width="862" height="432" alt="2001" src="https://github.com/user-attachments/assets/2024a37a-ffaa-4b5a-85ae-e74d97204971" />
+
+**2002**
+<img width="861" height="440" alt="2002" src="https://github.com/user-attachments/assets/cad23905-b9d7-4651-8dea-ae6a1abefc1e" />
+
+**2003**
+<img width="860" height="436" alt="2003" src="https://github.com/user-attachments/assets/50bb4774-712f-485e-af9b-4f324fef3b11" />
+
 ### **Period 2: 2006-2011**
 The boxplot for this second period (2006-2011) shows a similar overall pattern of distributions, with numerous outliers. GDP values are generally higher across all three groups compared to the first period, signaling a world-wide increase of GDP per capita. Boarded attacks display a notably wider box, while hijacked and attempted attacks appear more compressed toward lower GDP values. 
 
@@ -246,6 +276,36 @@ The post-hoc Dunn test identifies two significant pairwise differences: between 
 | Hijacked  | 1.00e+00  | 1.39e-05  | 1.00e+00  |  
 
 <img width="581" height="493" alt="dunn2_visual" src="https://github.com/user-attachments/assets/d9bb0dba-f5e1-4d91-ba12-d3fd20cbe543" />  
+
+## Maps for Period 2 (2006-2011)
+
+### Legend ###
+**GDP per year**  
+Country EEZs in blue: GDP (darker means higher)  
+Country EEZs in hashed grey: no GDP data  
+
+**Attacks per year**  
+Red diamond: hijacked  
+Yellow/orange diamond: boarded  
+Light green diamond: attempted  
+
+**2006**
+<img width="860" height="439" alt="2006" src="https://github.com/user-attachments/assets/87f3370d-4f6c-416d-a1e1-e4aea22f09b0" />
+
+**2007**
+<img width="859" height="444" alt="2007" src="https://github.com/user-attachments/assets/6d57727e-9b25-4cad-a183-73068cdbd58e" />
+
+**2008**
+<img width="860" height="446" alt="2008" src="https://github.com/user-attachments/assets/65788172-891e-45f5-b354-28da7f4827da" />
+
+**2009**
+<img width="861" height="446" alt="2009" src="https://github.com/user-attachments/assets/625a5c04-0a3c-4ea9-9652-fb5fd0072ff7" />
+
+**2010**
+<img width="860" height="447" alt="2010" src="https://github.com/user-attachments/assets/bd6e9277-4e53-425e-9afd-59e26e607648" />
+
+**2011**
+<img width="860" height="446" alt="2011" src="https://github.com/user-attachments/assets/7357a2d3-7a8d-4ae7-8659-02492694247a" />
 
 ## **Connection to the research question**  
 RQ: Is there a significant difference between the GDP levels of the countries where three different types of pirate attacks (‘attempted’, ‘boarded’, and ‘hijacked’) tend to occur during both surge periods (1998-2003, 2006-2011)?  
